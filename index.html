@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="整理 SNKRDUNK 航海王卡牌盒裝、起始牌組與補充包價格。" />
+    <title>ONEPRICE — 航海王卡牌盒裝價格</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Sans+TC:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="ambient ambient-one"></div>
+    <div class="ambient ambient-two"></div>
+
+    <header class="topbar">
+      <a class="brand" href="#" aria-label="ONEPRICE 首頁">
+        <span class="brand-mark">O</span>
+        <span>ONEPRICE</span>
+      </a>
+      <nav class="nav" aria-label="主要導覽">
+          <a class="active" href="#market">盒裝總覽</a>
+          <a href="#products">商品價格</a>
+        <a href="#activity">最新成交</a>
+      </nav>
+      <button class="icon-button" id="themeButton" aria-label="切換顯示模式">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v2m0 14v2M3 12h2m14 0h2M5.64 5.64l1.42 1.42m9.88 9.88 1.42 1.42m0-12.72-1.42 1.42M7.06 16.94l-1.42 1.42M16 12a4 4 0 1 1-8 0 4 4 0 0 1 8 0Z"/></svg>
+      </button>
+    </header>
+
+    <main>
+      <section class="hero" id="market">
+        <div class="hero-copy">
+          <span class="eyebrow"><i></i> ONE PIECE CARD PRICE</span>
+          <h1>航海王盒裝，<br /><em>價格一次看。</em></h1>
+          <p>專注整理 SNKRDUNK 上的航海王卡牌盒裝行情，快速比較起始牌組與補充包的最低價、漲跌與成交熱度。</p>
+        </div>
+        <div class="hero-stat" aria-label="市場指數">
+          <div class="index-top">
+            <span>熱門盒裝平均價</span>
+            <span class="live"><i></i> DEMO</span>
+          </div>
+          <strong>¥ 12,286</strong>
+          <div class="index-bottom"><span class="positive">10 件商品</span><span>價格快照</span></div>
+          <svg class="hero-chart" viewBox="0 0 400 100" preserveAspectRatio="none" aria-hidden="true">
+            <defs><linearGradient id="chartFill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#caff3d" stop-opacity=".28"/><stop offset="1" stop-color="#caff3d" stop-opacity="0"/></linearGradient></defs>
+            <path class="chart-area" d="M0 84 C35 78 45 50 78 62 S126 86 152 52 S202 28 228 43 S276 72 303 34 S356 10 400 8 L400 100 L0 100Z"/>
+            <path class="chart-line" d="M0 84 C35 78 45 50 78 62 S126 86 152 52 S202 28 228 43 S276 72 303 34 S356 10 400 8"/>
+          </svg>
+        </div>
+      </section>
+
+      <section class="metric-grid" aria-label="市場摘要">
+        <article class="metric"><span>追蹤盒裝</span><strong id="productCount">10</strong><small>起始牌組＋補充包 BOX</small></article>
+        <article class="metric"><span>補充包 BOX</span><strong>5</strong><small>熱門盒裝價格</small></article>
+        <article class="metric"><span>起始牌組</span><strong>5</strong><small>未拆封套牌</small></article>
+        <article class="metric"><span>資料來源</span><strong>SNKRDUNK <b class="heat-dot"></b></strong><small>2026/06/27 價格快照</small></article>
+      </section>
+
+      <section class="catalog" id="products">
+        <div class="section-heading">
+          <div><span class="eyebrow">SEALED PRODUCT WATCH</span><h2>盒裝價格追蹤</h2></div>
+          <p>點選商品查看價格細節</p>
+        </div>
+
+        <div class="toolbar">
+          <div class="search-wrap">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+            <input id="searchInput" type="search" placeholder="搜尋 ST、OP 編號或商品名稱" autocomplete="off" />
+            <kbd>⌘ K</kbd>
+          </div>
+          <div class="category-tabs" id="categoryTabs" aria-label="商品分類">
+            <button class="active" data-category="全部">全部</button>
+            <button data-category="起始牌組">起始牌組</button>
+            <button data-category="補充包">補充包</button>
+          </div>
+          <label class="select-wrap"><span class="sr-only">排序方式</span><select id="sortSelect"><option value="popular">SNKRDUNK 熱門順</option><option value="low">價格：低至高</option><option value="high">價格：高至低</option></select></label>
+        </div>
+
+        <div class="product-layout">
+          <div class="product-grid" id="productGrid" aria-live="polite"></div>
+          <aside class="detail-panel" id="detailPanel" aria-label="商品價格詳情"></aside>
+        </div>
+        <div class="empty-state" id="emptyState" hidden><span>⌁</span><h3>找不到符合的商品</h3><p>試著更換關鍵字或商品分類。</p></div>
+      </section>
+
+      <section class="activity-section" id="activity">
+        <div class="section-heading">
+          <div><span class="eyebrow">PRICE SNAPSHOT</span><h2>熱門商品價格快照</h2></div>
+          <span class="update-time">擷取日期：2026/06/27</span>
+        </div>
+        <div class="activity-card">
+          <div class="activity-head"><span>商品</span><span>SNKRDUNK 價格</span><span>商品類型</span><span>幣別</span><span>來源</span></div>
+          <div id="activityList"></div>
+        </div>
+      </section>
+
+      <section class="notice">
+        <span>!</span>
+        <p><strong>資料說明</strong>商品與日圓售價參考 SNKRDUNK 搜尋頁於 2026/06/27 顯示的價格快照，並非即時報價。台幣以 ¥1 ≈ NT$0.22 試算，實際價格、匯率與手續費請以 SNKRDUNK 商品頁為準。</p>
+      </section>
+    </main>
+
+    <footer><a class="brand" href="#"><span class="brand-mark">O</span><span>ONEPRICE</span></a><p>One Piece sealed price watch.</p><span>© 2026 ONEPRICE</span></footer>
+    <script src="app.js"></script>
+  </body>
+</html>
