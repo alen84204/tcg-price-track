@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="瀏覽航海王卡牌 OP、PRB、EB、ST 官方商品系列與 SNKRDUNK 日幣價格快照。" />
     <title>OPCG — 商品價格</title>
-    <link rel="stylesheet" href="styles.css?v=20260629-6" />
+    <link rel="stylesheet" href="styles.css?v=20260629-7" />
   </head>
   <body>
     <div class="ambient ambient-one"></div>
@@ -58,19 +58,24 @@
         </div>
 
         <div class="filter-bar">
-          <fieldset class="series-filters" id="seriesFilters">
-            <legend>系列篩選</legend>
-            <label class="series-all"><input type="checkbox" value="全部" checked /><span>全部</span></label>
-            <label><input type="checkbox" value="OP" data-series checked /><span>OP</span></label>
-            <label><input type="checkbox" value="EB" data-series checked /><span>EB</span></label>
-            <label><input type="checkbox" value="PRB" data-series checked /><span>PRB</span></label>
-            <label><input type="checkbox" value="ST" data-series checked /><span>ST</span></label>
-          </fieldset>
-          <fieldset class="status-filters" id="statusFilters">
-            <legend>上市狀態</legend>
-            <label><input type="radio" name="releaseStatus" value="全部" checked /><span>全部</span></label>
-            <label><input type="radio" name="releaseStatus" value="已上市" /><span>已上市</span></label>
-            <label><input type="radio" name="releaseStatus" value="未上市" /><span>未上市</span></label>
+          <fieldset class="filter-panel">
+            <legend>篩選條件</legend>
+            <div class="filter-groups">
+              <div class="filter-group" id="seriesFilters" role="group" aria-labelledby="seriesFilterLabel">
+                <span class="filter-label" id="seriesFilterLabel">系列</span>
+                <label class="series-all"><input type="checkbox" value="全部" checked /><span>全部</span></label>
+                <label><input type="checkbox" value="OP" data-series checked /><span>OP</span></label>
+                <label><input type="checkbox" value="EB" data-series checked /><span>EB</span></label>
+                <label><input type="checkbox" value="PRB" data-series checked /><span>PRB</span></label>
+                <label><input type="checkbox" value="ST" data-series checked /><span>ST</span></label>
+              </div>
+              <div class="filter-group" id="statusFilters" role="group" aria-labelledby="statusFilterLabel">
+                <span class="filter-label" id="statusFilterLabel">上市狀態</span>
+                <label><input type="radio" name="releaseStatus" value="全部" checked /><span>全部</span></label>
+                <label><input type="radio" name="releaseStatus" value="已上市" /><span>已上市</span></label>
+                <label><input type="radio" name="releaseStatus" value="未上市" /><span>未上市</span></label>
+              </div>
+            </div>
           </fieldset>
         </div>
 
@@ -88,7 +93,7 @@
 
     <footer><a class="brand" href="index.html"><span class="brand-mark">O</span><span>OPCG</span></a><p>One Piece sealed price watch.</p><span>© 2026 OPCG</span></footer>
     <script src="data/price-snapshot.js"></script>
-    <script src="data/catalog-data.js?v=20260629-1"></script>
+    <script src="data/catalog-data.js?v=20260629-2"></script>
     <script src="app.js?v=20260629-6"></script>
   </body>
 </html>

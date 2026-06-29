@@ -7,7 +7,7 @@ const backupDirectory = path.join(root, ".codex", "last-good");
 
 const rules = new Map([
   ["app.js", { minBytes: 5000, markers: ["function renderProducts", "activeReleaseStatus", "product-actions", "function initializeProductsPage", "initializeProductsPage();"] }],
-  ["styles.css", { minBytes: 5000, markers: [".product-grid", ".series-filters", ".market-price-grid"] }],
+  ["styles.css", { minBytes: 5000, markers: [".product-grid", ".filter-panel", ".market-price-grid"] }],
   ["products.html", { minBytes: 2000, markers: ["id=\"productGrid\"", "id=\"seriesFilters\"", "id=\"statusFilters\"", "app.js"] }],
   ["index.html", { minBytes: 1500, markers: ["OPCG", "app.js"] }],
   ["activity.html", { minBytes: 1500, markers: ["id=\"activityList\"", "app.js"] }],
