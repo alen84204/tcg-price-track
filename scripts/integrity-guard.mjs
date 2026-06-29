@@ -6,9 +6,9 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const backupDirectory = path.join(root, ".codex", "last-good");
 
 const rules = new Map([
-  ["app.js", { minBytes: 5000, markers: ["function renderProducts", "function renderDetail", "function initializeProductsPage", "initializeProductsPage();"] }],
+  ["app.js", { minBytes: 5000, markers: ["function renderProducts", "activeReleaseStatus", "product-actions", "function initializeProductsPage", "initializeProductsPage();"] }],
   ["styles.css", { minBytes: 5000, markers: [".product-grid", ".series-filters", ".market-price-grid"] }],
-  ["products.html", { minBytes: 2000, markers: ["id=\"productGrid\"", "id=\"seriesFilters\"", "app.js"] }],
+  ["products.html", { minBytes: 2000, markers: ["id=\"productGrid\"", "id=\"seriesFilters\"", "id=\"statusFilters\"", "app.js"] }],
   ["index.html", { minBytes: 1500, markers: ["OPCG", "app.js"] }],
   ["activity.html", { minBytes: 1500, markers: ["id=\"activityList\"", "app.js"] }],
   ["data/catalog-data.js", { minBytes: 2000, markers: ["window.ONEPRICE_CATALOG", "window.ONEPRICE_MARKET"] }],

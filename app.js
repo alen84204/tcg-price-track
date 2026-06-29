@@ -13,7 +13,7 @@ const DAY_IN_MS = 24 * 60 * 60 * 1000;
 let catalogProducts = [];
 let activeCategory = "全部";
 let activeSeries = new Set(CATEGORY_ORDER);
-let selectedCode = null;
+let activeReleaseStatus = "全部";
 let activeView = "list";
 
 const money = value => value == null ? "尚無價格資料" : `¥ ${value.toLocaleString("zh-TW")}`;
@@ -113,10 +113,22 @@ function normalizeCatalog(officialProducts, marketProducts) {
 }
 
 function availabilityLabel(product) {
-  if (product.status === "upcoming") return "即將發售";
+  if (isUpcoming(product)) return "即將發售";
   if (product.price != null) return "JPY";
   if (product.marketUrl) return "已有商品頁";
   return "尚無商品頁";
+}
+
+function isUpcoming(product) {
+  if (product.status === "upcoming") return true;
+  if (!product.releaseDate) return false;
+  const today = new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Asia/Taipei",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit"
+  }).format(new Date());
+  return product.releaseDate > today;
 }
 
 function compareSeries(a, b) {
@@ -138,8 +150,12 @@ function filteredProducts() {
   const list = catalogProducts.filter(product => {
     const matchesCategory = activeCategory === "全部" || product.officialGroup === activeCategory;
     const matchesSeries = activeSeries.has(product.category);
+    const upcoming = isUpcoming(product);
+    const matchesReleaseStatus = activeReleaseStatus === "全部"
+      || (activeReleaseStatus === "已上市" && !upcoming)
+      || (activeReleaseStatus === "未上市" && upcoming);
     const searchable = `${product.code} ${product.name} ${product.jpName} ${product.type} ${product.familyLabel} ${product.officialGroupLabel} ${product.feature}`.toLowerCase();
-    return matchesCategory && matchesSeries && searchable.includes(query);
+    return matchesCategory && matchesSeries && matchesReleaseStatus && searchable.includes(query);
   });
   return list.sort((a, b) => {
     if (sort === "newest") return (b.releaseDate ?? "").localeCompare(a.releaseDate ?? "") || -compareSeries(a, b);
@@ -169,14 +185,12 @@ function renderProducts() {
   const productCount = document.querySelector("#productCount");
   if (productCount) productCount.textContent = list.length;
   if (!list.length) {
-    const detail = document.querySelector("#detailPanel");
-    if (detail) detail.innerHTML = "";
+    grid.innerHTML = "";
     return;
   }
-  if (!list.some(product => product.code === selectedCode)) selectedCode = list[0].code;
 
   grid.innerHTML = list.map(product => `
-    <article class="product-card ${product.code === selectedCode ? "selected" : ""}" data-code="${escapeHTML(product.code)}" tabindex="0" role="button" aria-label="查看 ${escapeHTML(product.code)} ${escapeHTML(product.name)} 詳情">
+    <article class="product-card" data-code="${escapeHTML(product.code)}">
       <div class="product-image" style="background:${escapeHTML(product.color)}">${productVisual(product)}</div>
       <div class="product-meta">
         <div class="product-topline"><span class="tag official-category">${escapeHTML(product.officialGroup)}</span></div>
@@ -187,52 +201,14 @@ function renderProducts() {
           <div><small>目前最低價</small><strong class="${product.price == null ? "no-price" : ""}">${money(product.price)}</strong></div>
           <div><small>最新成交價</small><strong class="${product.recentSales[0]?.unitPrice == null ? "no-price" : ""}">${money(product.recentSales[0]?.unitPrice)}</strong><em>${escapeHTML(latestSaleMeta(product))}</em></div>
           <div><small>成交平均價</small><strong class="${product.recentAveragePrice == null ? "no-price" : ""}">${averageMoney(product.recentAveragePrice)}</strong><em>${escapeHTML(averagePeriodMeta(product))}</em></div>
-          <span class="availability ${product.status === "upcoming" ? "upcoming" : ""}">${availabilityLabel(product)}</span>
+          <span class="availability ${isUpcoming(product) ? "upcoming" : ""}">${availabilityLabel(product)}</span>
+        </div>
+        <div class="product-actions ${product.marketUrl ? "" : "single"}">
+          <a class="source-link" href="${escapeHTML(product.officialUrl)}" target="_blank" rel="noopener">官方商品頁</a>
+          ${product.marketUrl ? `<a class="view-button" href="${escapeHTML(product.marketUrl)}" target="_blank" rel="noopener">SNKRDUNK</a>` : ""}
         </div>
       </div>
     </article>`).join("");
-
-  grid.querySelectorAll(".product-card").forEach(card => {
-    const select = () => {
-      selectedCode = card.dataset.code;
-      renderProducts();
-    };
-    card.addEventListener("click", select);
-    card.addEventListener("keydown", event => {
-      if (event.key === "Enter" || event.key === " ") {
-        event.preventDefault();
-        select();
-      }
-    });
-  });
-  renderDetail(catalogProducts.find(product => product.code === selectedCode));
-}
-
-function renderDetail(product) {
-  const panel = document.querySelector("#detailPanel");
-  if (!panel || !product) return;
-  const marketAction = product.marketUrl
-    ? `<a class="view-button" href="${escapeHTML(product.marketUrl)}" target="_blank" rel="noopener">前往 SNKRDUNK</a>`
-    : "";
-
-  panel.innerHTML = `
-    <div class="detail-hero" style="background:${escapeHTML(product.color)}"><span class="code-badge">${escapeHTML(product.code)}</span>${productVisual(product, true)}</div>
-    <h3>${escapeHTML(`${product.type} ${product.name}`)}</h3><span class="detail-sku">${escapeHTML(product.officialGroup)}</span>
-    <div class="detail-feature"><span>官網特色</span><p>${escapeHTML(product.feature)}</p></div>
-    <div class="detail-price">
-      <div class="detail-price-values">
-        <div><span>目前最低價</span><strong class="${product.price == null ? "no-price" : ""}">${money(product.price)}</strong></div>
-        <div><span>最新成交價</span><strong class="${product.recentSales[0]?.unitPrice == null ? "no-price" : ""}">${money(product.recentSales[0]?.unitPrice)}</strong><small>${escapeHTML(latestSaleMeta(product))}</small></div>
-        <div><span>成交平均價</span><strong class="${product.recentAveragePrice == null ? "no-price" : ""}">${averageMoney(product.recentAveragePrice)}</strong><small>${escapeHTML(averagePeriodMeta(product))}</small></div>
-      </div>
-      <b class="availability ${product.status === "upcoming" ? "upcoming" : ""}">${availabilityLabel(product)}</b>
-    </div>
-    <div class="range">
-      <div><span>發售日期</span><strong>${escapeHTML(formatDate(product.releaseDate))}</strong></div>
-      <div><span>商品類型</span><strong>${escapeHTML(product.type)}</strong></div>
-      <div><span>官方分類</span><strong>${escapeHTML(product.officialGroup)}</strong></div>
-    </div>
-    <div class="detail-actions ${product.marketUrl ? "" : "single"}"><a class="source-link" href="${escapeHTML(product.officialUrl)}" target="_blank" rel="noopener">查看官方商品頁</a>${marketAction}</div>`;
 }
 
 function renderActivities() {
@@ -251,8 +227,9 @@ async function initializeProductsPage() {
   const sortSelect = document.querySelector("#sortSelect");
   const viewSwitch = document.querySelector("#viewSwitch");
   const seriesFilters = document.querySelector("#seriesFilters");
+  const statusFilters = document.querySelector("#statusFilters");
   const searchShortcut = document.querySelector("#searchShortcut");
-  if (!categoryTabs || !searchInput || !sortSelect || !viewSwitch || !seriesFilters) return;
+  if (!categoryTabs || !searchInput || !sortSelect || !viewSwitch || !seriesFilters || !statusFilters) return;
 
   const platform = navigator.userAgentData?.platform ?? navigator.platform ?? navigator.userAgent ?? "";
   const isApplePlatform = /mac|iphone|ipad|ipod/i.test(platform);
@@ -263,7 +240,6 @@ async function initializeProductsPage() {
     const button = event.target.closest("button");
     if (!button) return;
     activeCategory = button.dataset.category;
-    selectedCode = null;
     categoryTabs.querySelectorAll("button").forEach(item => item.classList.toggle("active", item === button));
     renderProducts();
   });
@@ -279,7 +255,13 @@ async function initializeProductsPage() {
       allCheckbox.checked = itemCheckboxes.every(item => item.checked);
     }
     activeSeries = new Set(itemCheckboxes.filter(item => item.checked).map(item => item.value));
-    selectedCode = null;
+    renderProducts();
+  });
+
+  statusFilters.addEventListener("change", event => {
+    const radio = event.target.closest('input[type="radio"]');
+    if (!radio) return;
+    activeReleaseStatus = radio.value;
     renderProducts();
   });
 
@@ -313,7 +295,6 @@ async function initializeProductsPage() {
       [catalog, market] = await Promise.all([catalogResponse.json(), marketResponse.json()]);
     }
     catalogProducts = normalizeCatalog(catalog.products ?? [], market.products ?? []);
-    selectedCode = null;
     renderProducts();
   } catch (error) {
     document.querySelector(".product-layout")?.setAttribute("hidden", "");
