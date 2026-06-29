@@ -313,7 +313,7 @@ async function initializeProductsPage() {
       [catalog, market] = await Promise.all([catalogResponse.json(), marketResponse.json()]);
     }
     catalogProducts = normalizeCatalog(catalog.products ?? [], market.products ?? []);
-    selectedCode = catalogProducts[0]?.code ?? null;
+    selectedCode = null;
     renderProducts();
   } catch (error) {
     document.querySelector(".product-layout")?.setAttribute("hidden", "");

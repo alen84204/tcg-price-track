@@ -76,6 +76,8 @@ h1 em { color: var(--accent); font-style: normal; }
 .search-wrap input:focus { border-color: #525a61; box-shadow: 0 0 0 3px rgba(202, 255, 61, .06); }
 .search-wrap kbd { position: absolute; top: 12px; right: 12px; padding: 4px 7px; color: var(--muted); background: #202328; border: 1px solid #30353a; border-radius: 5px; font-size: 12px; }
 .category-tabs { display: flex; padding: 4px; background: var(--surface); border: 1px solid var(--line); border-radius: 11px; }
+.category-tabs, .series-filters { scrollbar-width: none; }
+.category-tabs::-webkit-scrollbar, .series-filters::-webkit-scrollbar { display: none; }
 .category-tabs button { padding: 0 15px; color: var(--muted); background: transparent; border: 0; border-radius: 7px; font-size: 15px; font-weight: 600; cursor: pointer; }
 .category-tabs button.active { color: var(--bg); background: var(--text); }
 .category-tabs button small { margin-left: 3px; font-size: 11px; opacity: .62; }
