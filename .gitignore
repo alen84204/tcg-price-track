@@ -1,0 +1,4 @@
+.codex/
+*.restored.js
+*.restored.css
+*.restored.mjs

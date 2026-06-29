@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="瀏覽航海王卡牌 OP、PRB、EB、ST 官方商品系列與 SNKRDUNK 日幣價格快照。" />
+    <title>OPCG — 商品價格</title>
+    <link rel="stylesheet" href="styles.css?v=20260629-3" />
+  </head>
+  <body>
+    <div class="ambient ambient-one"></div>
+    <div class="ambient ambient-two"></div>
+
+    <header class="topbar">
+      <a class="brand" href="index.html" aria-label="OPCG 首頁">
+        <span class="brand-mark">O</span>
+        <span>OPCG</span>
+      </a>
+      <nav class="nav" aria-label="主要導覽">
+        <a href="index.html">盒裝總覽</a>
+        <a class="active" href="products.html" aria-current="page">商品價格</a>
+        <a href="activity.html">最新成交</a>
+      </nav>
+      <button class="icon-button" id="themeButton" aria-label="切換顯示模式">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v2m0 14v2M3 12h2m14 0h2M5.64 5.64l1.42 1.42m9.88 9.88 1.42 1.42m0-12.72-1.42 1.42M7.06 16.94l-1.42 1.42M16 12a4 4 0 1 1-8 0 4 4 0 0 1 8 0Z"/></svg>
+      </button>
+    </header>
+
+    <main class="page-main">
+      <section class="page-intro">
+        <span class="eyebrow"><i></i> SEALED PRODUCT WATCH</span>
+        <h1>商品價格</h1>
+        <p>依官網分為 BOOSTERS 補充包與 DECKS 預組牌組，並完整收錄 OP、PRB、EB、ST 系列。</p>
+      </section>
+
+      <section class="catalog page-section">
+        <div class="section-heading">
+          <div><span class="eyebrow">PRODUCT CATALOG</span><h2>官方系列商品</h2></div>
+          <p id="catalogSummary">顯示 <b id="productCount">59</b> / 59 項商品</p>
+        </div>
+
+        <div class="toolbar">
+          <div class="search-wrap">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+            <input id="searchInput" type="search" placeholder="搜尋 OP-13、ST-35、商品名稱或特色" autocomplete="off" />
+            <kbd id="searchShortcut">Ctrl K</kbd>
+          </div>
+          <div class="category-tabs" id="categoryTabs" aria-label="商品分類">
+            <button class="active" data-category="全部">全部 <small>59</small></button>
+            <button data-category="BOOSTERS">BOOSTERS 補充包 <small>23</small></button>
+            <button data-category="DECKS">DECKS 預組牌組 <small>36</small></button>
+          </div>
+          <div class="view-switch" id="viewSwitch" aria-label="商品排列方式">
+            <button class="active" data-view="list" type="button" aria-label="列表排列">☷ <span>列表</span></button>
+            <button data-view="cards" type="button" aria-label="卡片排列">▦ <span>卡片</span></button>
+          </div>
+          <label class="select-wrap"><span class="sr-only">排序方式</span><select id="sortSelect"><option value="newest">發售日：新至舊</option><option value="oldest">發售日：舊至新</option><option value="series-asc">系列編號：小至大</option><option value="series-desc">系列編號：大至小</option><option value="low">價格：低至高</option><option value="high">價格：高至低</option></select></label>
+        </div>
+
+        <fieldset class="series-filters" id="seriesFilters">
+          <legend>系列篩選</legend>
+          <label class="series-all"><input type="checkbox" value="全部" checked /><span>全部</span></label>
+          <label><input type="checkbox" value="OP" data-series checked /><span>OP</span></label>
+          <label><input type="checkbox" value="EB" data-series checked /><span>EB</span></label>
+          <label><input type="checkbox" value="PRB" data-series checked /><span>PRB</span></label>
+          <label><input type="checkbox" value="ST" data-series checked /><span>ST</span></label>
+        </fieldset>
+
+        <div class="product-layout">
+          <div class="product-grid" id="productGrid" aria-live="polite"></div>
+          <aside class="detail-panel" id="detailPanel" aria-label="商品價格詳情"></aside>
+        </div>
+        <div class="empty-state" id="emptyState" hidden><span>⌁</span><h3>找不到符合的商品</h3><p>試著更換關鍵字或商品分類。</p></div>
+      </section>
+
+      <section class="notice">
+        <span>!</span>
+        <p><strong>資料說明</strong>官方商品共 59 項；目前最低價、最新成交與最近最多 20 筆的每件成交均價於 2026/06/28 擷取，平均價會同時標示實際樣本期間。已有 58 個 SNKRDUNK 對應頁、52 項目前價格、44 項平均價；EB-05 尚未到販售時間。</p>
+      </section>
+    </main>
+
+    <footer><a class="brand" href="index.html"><span class="brand-mark">O</span><span>OPCG</span></a><p>One Piece sealed price watch.</p><span>© 2026 OPCG</span></footer>
+    <script src="data/price-snapshot.js"></script>
+    <script src="data/catalog-data.js?v=20260629-1"></script>
+    <script src="app.js?v=20260629-3"></script>
+  </body>
+</html>

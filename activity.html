@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="查看航海王卡牌盒裝熱門商品的 SNKRDUNK 價格快照。" />
+    <title>OPCG — 最新成交</title>
+    <link rel="stylesheet" href="styles.css?v=20260629-3" />
+  </head>
+  <body>
+    <div class="ambient ambient-one"></div>
+    <div class="ambient ambient-two"></div>
+
+    <header class="topbar">
+      <a class="brand" href="index.html" aria-label="OPCG 首頁">
+        <span class="brand-mark">O</span>
+        <span>OPCG</span>
+      </a>
+      <nav class="nav" aria-label="主要導覽">
+        <a href="index.html">盒裝總覽</a>
+        <a href="products.html">商品價格</a>
+        <a class="active" href="activity.html" aria-current="page">最新成交</a>
+      </nav>
+      <button class="icon-button" id="themeButton" aria-label="切換顯示模式">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v2m0 14v2M3 12h2m14 0h2M5.64 5.64l1.42 1.42m9.88 9.88 1.42 1.42m0-12.72-1.42 1.42M7.06 16.94l-1.42 1.42M16 12a4 4 0 1 1-8 0 4 4 0 0 1 8 0Z"/></svg>
+      </button>
+    </header>
+
+    <main class="page-main">
+      <section class="page-intro">
+        <span class="eyebrow"><i></i> PRICE SNAPSHOT</span>
+        <h1>最新成交</h1>
+        <p>目前展示熱門商品的 SNKRDUNK 日幣價格快照；待串接歷史資料後，可在此呈現實際成交變化。</p>
+      </section>
+
+      <section class="activity-section page-section">
+        <div class="section-heading">
+          <div><span class="eyebrow">MARKET ACTIVITY</span><h2>熱門商品價格快照</h2></div>
+          <span class="update-time">擷取日期：2026/06/27</span>
+        </div>
+        <div class="activity-card">
+          <div class="activity-head"><span>商品</span><span>SNKRDUNK 價格</span><span>商品類型</span><span>幣別</span><span>來源</span></div>
+          <div id="activityList"></div>
+        </div>
+      </section>
+
+      <section class="notice">
+        <span>!</span>
+        <p><strong>命名說明</strong>目前尚未儲存逐筆成交紀錄，因此本頁內容仍是日幣價格快照，不代表 SNKRDUNK 的即時成交資料。</p>
+      </section>
+    </main>
+
+    <footer><a class="brand" href="index.html"><span class="brand-mark">O</span><span>OPCG</span></a><p>One Piece sealed price watch.</p><span>© 2026 OPCG</span></footer>
+    <script src="data/price-snapshot.js"></script>
+    <script src="app.js?v=20260629-3"></script>
+  </body>
+</html>

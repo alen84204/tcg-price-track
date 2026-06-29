@@ -1,0 +1,5249 @@
+{
+  "checkedAt": "2026-06-28",
+  "source": "https://snkrdunk.com/search",
+  "currency": "JPY",
+  "matchPolicy": "只綁定名稱與官方商品明確一致的 SNKRDUNK 商品頁；英語版、單卡、Bonus Pack 或近似品不視為對應商品。",
+  "summary": {
+    "officialProducts": 59,
+    "matchedPages": 58,
+    "matchedWithPrice": 52,
+    "matchedWithoutPrice": 6,
+    "notAvailableYet": 1,
+    "updateErrors": 0
+  },
+  "products": [
+    {
+      "code": "OP-01",
+      "productId": "136031",
+      "url": "https://snkrdunk.com/apparels/136031",
+      "title": "ONE PIECE Card Game Booster Pack Romance Dawn Box",
+      "price": 42900,
+      "status": "matched_with_price",
+      "currentMinPrice": 42900,
+      "recentAveragePrice": 41281,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 24,
+      "recentSales": [
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 42000,
+          "unitPrice": 42000
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 41999,
+          "unitPrice": 41999
+        },
+        {
+          "date": "3日前",
+          "quantity": 2,
+          "totalPrice": 82000,
+          "unitPrice": 41000
+        },
+        {
+          "date": "2026/06/23",
+          "quantity": 1,
+          "totalPrice": 40500,
+          "unitPrice": 40500
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 2,
+          "totalPrice": 84500,
+          "unitPrice": 42250
+        },
+        {
+          "date": "2026/06/21",
+          "quantity": 1,
+          "totalPrice": 41000,
+          "unitPrice": 41000
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 40800,
+          "unitPrice": 40800
+        },
+        {
+          "date": "2026/06/16",
+          "quantity": 2,
+          "totalPrice": 83000,
+          "unitPrice": 41500
+        },
+        {
+          "date": "2026/06/14",
+          "quantity": 1,
+          "totalPrice": 41499,
+          "unitPrice": 41499
+        },
+        {
+          "date": "2026/06/14",
+          "quantity": 1,
+          "totalPrice": 41500,
+          "unitPrice": 41500
+        },
+        {
+          "date": "2026/06/14",
+          "quantity": 1,
+          "totalPrice": 41500,
+          "unitPrice": 41500
+        },
+        {
+          "date": "2026/06/11",
+          "quantity": 1,
+          "totalPrice": 41500,
+          "unitPrice": 41500
+        },
+        {
+          "date": "2026/06/11",
+          "quantity": 1,
+          "totalPrice": 41450,
+          "unitPrice": 41450
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 2,
+          "totalPrice": 85000,
+          "unitPrice": 42500
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 1,
+          "totalPrice": 41400,
+          "unitPrice": 41400
+        },
+        {
+          "date": "2026/06/09",
+          "quantity": 1,
+          "totalPrice": 40800,
+          "unitPrice": 40800
+        },
+        {
+          "date": "2026/06/09",
+          "quantity": 1,
+          "totalPrice": 39000,
+          "unitPrice": 39000
+        },
+        {
+          "date": "2026/06/09",
+          "quantity": 1,
+          "totalPrice": 40900,
+          "unitPrice": 40900
+        },
+        {
+          "date": "2026/06/05",
+          "quantity": 1,
+          "totalPrice": 41500,
+          "unitPrice": 41500
+        },
+        {
+          "date": "2026/06/05",
+          "quantity": 1,
+          "totalPrice": 38900,
+          "unitPrice": 38900
+        }
+      ],
+      "image": "assets/products/snkrdunk/op-01.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20240520075219-0.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "OP-02",
+      "productId": "136032",
+      "url": "https://snkrdunk.com/apparels/136032",
+      "title": "ONE PIECE Card Game Booster Pack Paramount War Box",
+      "price": 21780,
+      "status": "matched_with_price",
+      "currentMinPrice": 21780,
+      "recentAveragePrice": 21392,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 24,
+      "recentSales": [
+        {
+          "date": "11時間前",
+          "quantity": 1,
+          "totalPrice": 16000,
+          "unitPrice": 16000
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 22000,
+          "unitPrice": 22000
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 21500,
+          "unitPrice": 21500
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 21000,
+          "unitPrice": 21000
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 21899,
+          "unitPrice": 21899
+        },
+        {
+          "date": "2026/06/21",
+          "quantity": 4,
+          "totalPrice": 84000,
+          "unitPrice": 21000
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 21800,
+          "unitPrice": 21800
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 22000,
+          "unitPrice": 22000
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 22000,
+          "unitPrice": 22000
+        },
+        {
+          "date": "2026/06/17",
+          "quantity": 1,
+          "totalPrice": 21799,
+          "unitPrice": 21799
+        },
+        {
+          "date": "2026/06/09",
+          "quantity": 1,
+          "totalPrice": 21000,
+          "unitPrice": 21000
+        },
+        {
+          "date": "2026/06/08",
+          "quantity": 1,
+          "totalPrice": 21300,
+          "unitPrice": 21300
+        },
+        {
+          "date": "2026/06/05",
+          "quantity": 1,
+          "totalPrice": 21000,
+          "unitPrice": 21000
+        },
+        {
+          "date": "2026/06/03",
+          "quantity": 1,
+          "totalPrice": 20800,
+          "unitPrice": 20800
+        },
+        {
+          "date": "2026/06/01",
+          "quantity": 1,
+          "totalPrice": 21000,
+          "unitPrice": 21000
+        },
+        {
+          "date": "2026/05/16",
+          "quantity": 1,
+          "totalPrice": 22999,
+          "unitPrice": 22999
+        },
+        {
+          "date": "2026/05/16",
+          "quantity": 1,
+          "totalPrice": 22500,
+          "unitPrice": 22500
+        },
+        {
+          "date": "2026/05/16",
+          "quantity": 1,
+          "totalPrice": 22500,
+          "unitPrice": 22500
+        },
+        {
+          "date": "2026/05/16",
+          "quantity": 1,
+          "totalPrice": 22300,
+          "unitPrice": 22300
+        },
+        {
+          "date": "2026/05/16",
+          "quantity": 2,
+          "totalPrice": 44000,
+          "unitPrice": 22000
+        }
+      ],
+      "image": "assets/products/snkrdunk/op-02.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20240303013542-0.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "OP-03",
+      "productId": "136033",
+      "url": "https://snkrdunk.com/apparels/136033",
+      "title": "ONE PIECE Card Game Booster Pack Pillars Of Strength Box",
+      "price": 18000,
+      "status": "matched_with_price",
+      "currentMinPrice": 18000,
+      "recentAveragePrice": 17165,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 26,
+      "recentSales": [
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 17500,
+          "unitPrice": 17500
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 18000,
+          "unitPrice": 18000
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 17888,
+          "unitPrice": 17888
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 17000,
+          "unitPrice": 17000
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 2,
+          "totalPrice": 34500,
+          "unitPrice": 17250
+        },
+        {
+          "date": "2026/06/14",
+          "quantity": 1,
+          "totalPrice": 17000,
+          "unitPrice": 17000
+        },
+        {
+          "date": "2026/06/14",
+          "quantity": 1,
+          "totalPrice": 16400,
+          "unitPrice": 16400
+        },
+        {
+          "date": "2026/06/14",
+          "quantity": 1,
+          "totalPrice": 16400,
+          "unitPrice": 16400
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 1,
+          "totalPrice": 17300,
+          "unitPrice": 17300
+        },
+        {
+          "date": "2026/06/07",
+          "quantity": 1,
+          "totalPrice": 17000,
+          "unitPrice": 17000
+        },
+        {
+          "date": "2026/06/06",
+          "quantity": 3,
+          "totalPrice": 51000,
+          "unitPrice": 17000
+        },
+        {
+          "date": "2026/06/03",
+          "quantity": 1,
+          "totalPrice": 17000,
+          "unitPrice": 17000
+        },
+        {
+          "date": "2026/06/01",
+          "quantity": 1,
+          "totalPrice": 17000,
+          "unitPrice": 17000
+        },
+        {
+          "date": "2026/05/25",
+          "quantity": 1,
+          "totalPrice": 17300,
+          "unitPrice": 17300
+        },
+        {
+          "date": "2026/05/22",
+          "quantity": 3,
+          "totalPrice": 52000,
+          "unitPrice": 17333
+        },
+        {
+          "date": "2026/05/20",
+          "quantity": 1,
+          "totalPrice": 16999,
+          "unitPrice": 16999
+        },
+        {
+          "date": "2026/05/16",
+          "quantity": 1,
+          "totalPrice": 17000,
+          "unitPrice": 17000
+        },
+        {
+          "date": "2026/05/14",
+          "quantity": 1,
+          "totalPrice": 17000,
+          "unitPrice": 17000
+        },
+        {
+          "date": "2026/05/14",
+          "quantity": 1,
+          "totalPrice": 17000,
+          "unitPrice": 17000
+        },
+        {
+          "date": "2026/05/14",
+          "quantity": 2,
+          "totalPrice": 35000,
+          "unitPrice": 17500
+        }
+      ],
+      "image": "assets/products/snkrdunk/op-03.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20240303014231-0.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "OP-04",
+      "productId": "136034",
+      "url": "https://snkrdunk.com/apparels/136034",
+      "title": "ONE PIECE Card Game Booster Pack The Kingdoms Of Intrigue Box",
+      "price": 18000,
+      "status": "matched_with_price",
+      "currentMinPrice": 18000,
+      "recentAveragePrice": 18487,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 24,
+      "recentSales": [
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 19999,
+          "unitPrice": 19999
+        },
+        {
+          "date": "3日前",
+          "quantity": 4,
+          "totalPrice": 80000,
+          "unitPrice": 20000
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 18800,
+          "unitPrice": 18800
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 2,
+          "totalPrice": 36999,
+          "unitPrice": 18500
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 18800,
+          "unitPrice": 18800
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 18800,
+          "unitPrice": 18800
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 17999,
+          "unitPrice": 17999
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 18000,
+          "unitPrice": 18000
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 17800,
+          "unitPrice": 17800
+        },
+        {
+          "date": "2026/06/16",
+          "quantity": 1,
+          "totalPrice": 17800,
+          "unitPrice": 17800
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 1,
+          "totalPrice": 19000,
+          "unitPrice": 19000
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 1,
+          "totalPrice": 17200,
+          "unitPrice": 17200
+        },
+        {
+          "date": "2026/06/09",
+          "quantity": 1,
+          "totalPrice": 14999,
+          "unitPrice": 14999
+        },
+        {
+          "date": "2026/06/09",
+          "quantity": 1,
+          "totalPrice": 14990,
+          "unitPrice": 14990
+        },
+        {
+          "date": "2026/06/03",
+          "quantity": 1,
+          "totalPrice": 18500,
+          "unitPrice": 18500
+        },
+        {
+          "date": "2026/06/03",
+          "quantity": 1,
+          "totalPrice": 17999,
+          "unitPrice": 17999
+        },
+        {
+          "date": "2026/05/28",
+          "quantity": 1,
+          "totalPrice": 17999,
+          "unitPrice": 17999
+        },
+        {
+          "date": "2026/05/26",
+          "quantity": 1,
+          "totalPrice": 17999,
+          "unitPrice": 17999
+        },
+        {
+          "date": "2026/05/16",
+          "quantity": 1,
+          "totalPrice": 20000,
+          "unitPrice": 20000
+        },
+        {
+          "date": "2026/05/16",
+          "quantity": 1,
+          "totalPrice": 20000,
+          "unitPrice": 20000
+        }
+      ],
+      "image": "assets/products/snkrdunk/op-04.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20240303014432-0.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "OP-05",
+      "productId": "136035",
+      "url": "https://snkrdunk.com/apparels/136035",
+      "title": "ONE PIECE Card Game Booster Pack Awakening Of The New Era Box",
+      "price": 64500,
+      "status": "matched_with_price",
+      "currentMinPrice": 64500,
+      "recentAveragePrice": 63659,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 27,
+      "recentSales": [
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 64000,
+          "unitPrice": 64000
+        },
+        {
+          "date": "2日前",
+          "quantity": 1,
+          "totalPrice": 63800,
+          "unitPrice": 63800
+        },
+        {
+          "date": "2日前",
+          "quantity": 1,
+          "totalPrice": 64000,
+          "unitPrice": 64000
+        },
+        {
+          "date": "3日前",
+          "quantity": 3,
+          "totalPrice": 192000,
+          "unitPrice": 64000
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 63500,
+          "unitPrice": 63500
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 64300,
+          "unitPrice": 64300
+        },
+        {
+          "date": "2026/06/20",
+          "quantity": 1,
+          "totalPrice": 64300,
+          "unitPrice": 64300
+        },
+        {
+          "date": "2026/06/19",
+          "quantity": 1,
+          "totalPrice": 63900,
+          "unitPrice": 63900
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 6,
+          "totalPrice": 420000,
+          "unitPrice": 70000
+        },
+        {
+          "date": "2026/06/17",
+          "quantity": 1,
+          "totalPrice": 65000,
+          "unitPrice": 65000
+        },
+        {
+          "date": "2026/06/17",
+          "quantity": 1,
+          "totalPrice": 60000,
+          "unitPrice": 60000
+        },
+        {
+          "date": "2026/06/17",
+          "quantity": 1,
+          "totalPrice": 61000,
+          "unitPrice": 61000
+        },
+        {
+          "date": "2026/06/16",
+          "quantity": 1,
+          "totalPrice": 60000,
+          "unitPrice": 60000
+        },
+        {
+          "date": "2026/06/16",
+          "quantity": 1,
+          "totalPrice": 60000,
+          "unitPrice": 60000
+        },
+        {
+          "date": "2026/06/16",
+          "quantity": 1,
+          "totalPrice": 59300,
+          "unitPrice": 59300
+        },
+        {
+          "date": "2026/06/16",
+          "quantity": 1,
+          "totalPrice": 60000,
+          "unitPrice": 60000
+        },
+        {
+          "date": "2026/06/16",
+          "quantity": 1,
+          "totalPrice": 59000,
+          "unitPrice": 59000
+        },
+        {
+          "date": "2026/06/15",
+          "quantity": 1,
+          "totalPrice": 58800,
+          "unitPrice": 58800
+        },
+        {
+          "date": "2026/06/14",
+          "quantity": 1,
+          "totalPrice": 57900,
+          "unitPrice": 57900
+        },
+        {
+          "date": "2026/06/14",
+          "quantity": 1,
+          "totalPrice": 58000,
+          "unitPrice": 58000
+        }
+      ],
+      "image": "assets/products/snkrdunk/op-05.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20240303014653-0.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "OP-06",
+      "productId": "145974",
+      "url": "https://snkrdunk.com/apparels/145974",
+      "title": "ONE PIECE Card Game Wings Of The Captain Box",
+      "price": 24000,
+      "status": "matched_with_price",
+      "currentMinPrice": 24000,
+      "recentAveragePrice": 21673,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 26,
+      "recentSales": [
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 23000,
+          "unitPrice": 23000
+        },
+        {
+          "date": "2日前",
+          "quantity": 1,
+          "totalPrice": 23000,
+          "unitPrice": 23000
+        },
+        {
+          "date": "2日前",
+          "quantity": 1,
+          "totalPrice": 22800,
+          "unitPrice": 22800
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 23000,
+          "unitPrice": 23000
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 22500,
+          "unitPrice": 22500
+        },
+        {
+          "date": "2026/06/21",
+          "quantity": 1,
+          "totalPrice": 22500,
+          "unitPrice": 22500
+        },
+        {
+          "date": "2026/06/19",
+          "quantity": 1,
+          "totalPrice": 21500,
+          "unitPrice": 21500
+        },
+        {
+          "date": "2026/06/19",
+          "quantity": 1,
+          "totalPrice": 22500,
+          "unitPrice": 22500
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 20999,
+          "unitPrice": 20999
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 20500,
+          "unitPrice": 20500
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 20500,
+          "unitPrice": 20500
+        },
+        {
+          "date": "2026/06/17",
+          "quantity": 2,
+          "totalPrice": 40000,
+          "unitPrice": 20000
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 3,
+          "totalPrice": 63000,
+          "unitPrice": 21000
+        },
+        {
+          "date": "2026/06/05",
+          "quantity": 3,
+          "totalPrice": 61999,
+          "unitPrice": 20666
+        },
+        {
+          "date": "2026/06/05",
+          "quantity": 1,
+          "totalPrice": 21998,
+          "unitPrice": 21998
+        },
+        {
+          "date": "2026/06/03",
+          "quantity": 1,
+          "totalPrice": 20000,
+          "unitPrice": 20000
+        },
+        {
+          "date": "2026/06/03",
+          "quantity": 1,
+          "totalPrice": 17999,
+          "unitPrice": 17999
+        },
+        {
+          "date": "2026/06/02",
+          "quantity": 2,
+          "totalPrice": 59700,
+          "unitPrice": 29850
+        },
+        {
+          "date": "2026/06/01",
+          "quantity": 1,
+          "totalPrice": 18000,
+          "unitPrice": 18000
+        },
+        {
+          "date": "2026/06/01",
+          "quantity": 1,
+          "totalPrice": 18000,
+          "unitPrice": 18000
+        }
+      ],
+      "image": "assets/products/snkrdunk/op-06.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20240303014929-0.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "OP-07",
+      "productId": "178125",
+      "url": "https://snkrdunk.com/apparels/178125",
+      "title": "ONE PIECE Card Game Booster Pack The Future After 500 years Box",
+      "price": 17500,
+      "status": "matched_with_price",
+      "currentMinPrice": 17500,
+      "recentAveragePrice": 17081,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 31,
+      "recentSales": [
+        {
+          "date": "3日前",
+          "quantity": 5,
+          "totalPrice": 100000,
+          "unitPrice": 20000
+        },
+        {
+          "date": "2026/06/23",
+          "quantity": 1,
+          "totalPrice": 18500,
+          "unitPrice": 18500
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 3,
+          "totalPrice": 47000,
+          "unitPrice": 15667
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 2,
+          "totalPrice": 37000,
+          "unitPrice": 18500
+        },
+        {
+          "date": "2026/06/21",
+          "quantity": 1,
+          "totalPrice": 18000,
+          "unitPrice": 18000
+        },
+        {
+          "date": "2026/06/21",
+          "quantity": 1,
+          "totalPrice": 18000,
+          "unitPrice": 18000
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 18000,
+          "unitPrice": 18000
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 18000,
+          "unitPrice": 18000
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 17900,
+          "unitPrice": 17900
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 16400,
+          "unitPrice": 16400
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 16800,
+          "unitPrice": 16800
+        },
+        {
+          "date": "2026/06/17",
+          "quantity": 1,
+          "totalPrice": 16300,
+          "unitPrice": 16300
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 3,
+          "totalPrice": 46000,
+          "unitPrice": 15333
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 2,
+          "totalPrice": 32999,
+          "unitPrice": 16500
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 1,
+          "totalPrice": 16100,
+          "unitPrice": 16100
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 1,
+          "totalPrice": 16200,
+          "unitPrice": 16200
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 1,
+          "totalPrice": 16000,
+          "unitPrice": 16000
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 1,
+          "totalPrice": 16000,
+          "unitPrice": 16000
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 2,
+          "totalPrice": 29300,
+          "unitPrice": 14650
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 1,
+          "totalPrice": 15000,
+          "unitPrice": 15000
+        }
+      ],
+      "image": "assets/products/snkrdunk/op-07.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20240315102526-0.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "OP-08",
+      "productId": "190553",
+      "url": "https://snkrdunk.com/apparels/190553",
+      "title": "ONE PIECE Card Game Booster Pack Two Legends Box",
+      "price": 10500,
+      "status": "matched_with_price",
+      "currentMinPrice": 10500,
+      "recentAveragePrice": 10695,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 24,
+      "recentSales": [
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 10399,
+          "unitPrice": 10399
+        },
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 10000,
+          "unitPrice": 10000
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 11000,
+          "unitPrice": 11000
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 2,
+          "totalPrice": 24000,
+          "unitPrice": 12000
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 3,
+          "totalPrice": 36000,
+          "unitPrice": 12000
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 10700,
+          "unitPrice": 10700
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 11000,
+          "unitPrice": 11000
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 2,
+          "totalPrice": 23999,
+          "unitPrice": 12000
+        },
+        {
+          "date": "2026/06/21",
+          "quantity": 1,
+          "totalPrice": 10000,
+          "unitPrice": 10000
+        },
+        {
+          "date": "2026/06/20",
+          "quantity": 1,
+          "totalPrice": 10000,
+          "unitPrice": 10000
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 10000,
+          "unitPrice": 10000
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 10000,
+          "unitPrice": 10000
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 10000,
+          "unitPrice": 10000
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 10000,
+          "unitPrice": 10000
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 10000,
+          "unitPrice": 10000
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 10000,
+          "unitPrice": 10000
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 9770,
+          "unitPrice": 9770
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 9800,
+          "unitPrice": 9800
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 10000,
+          "unitPrice": 10000
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 10000,
+          "unitPrice": 10000
+        }
+      ],
+      "image": "assets/products/snkrdunk/op-08.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20240523061358-0.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "OP-09",
+      "productId": "299926",
+      "url": "https://snkrdunk.com/apparels/299926",
+      "title": "ONE PIECE Card Game Booster Pack \"Emperors In The New World\" Box",
+      "price": 20750,
+      "status": "matched_with_price",
+      "currentMinPrice": 20750,
+      "recentAveragePrice": 21179,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 29,
+      "recentSales": [
+        {
+          "date": "1日前",
+          "quantity": 3,
+          "totalPrice": 63999,
+          "unitPrice": 21333
+        },
+        {
+          "date": "2日前",
+          "quantity": 1,
+          "totalPrice": 21000,
+          "unitPrice": 21000
+        },
+        {
+          "date": "2日前",
+          "quantity": 2,
+          "totalPrice": 42000,
+          "unitPrice": 21000
+        },
+        {
+          "date": "2日前",
+          "quantity": 1,
+          "totalPrice": 21200,
+          "unitPrice": 21200
+        },
+        {
+          "date": "2日前",
+          "quantity": 1,
+          "totalPrice": 20950,
+          "unitPrice": 20950
+        },
+        {
+          "date": "2日前",
+          "quantity": 1,
+          "totalPrice": 20900,
+          "unitPrice": 20900
+        },
+        {
+          "date": "2日前",
+          "quantity": 1,
+          "totalPrice": 21100,
+          "unitPrice": 21100
+        },
+        {
+          "date": "2日前",
+          "quantity": 1,
+          "totalPrice": 21111,
+          "unitPrice": 21111
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 20960,
+          "unitPrice": 20960
+        },
+        {
+          "date": "3日前",
+          "quantity": 2,
+          "totalPrice": 41000,
+          "unitPrice": 20500
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 21000,
+          "unitPrice": 21000
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 21299,
+          "unitPrice": 21299
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 21280,
+          "unitPrice": 21280
+        },
+        {
+          "date": "2026/06/23",
+          "quantity": 1,
+          "totalPrice": 21000,
+          "unitPrice": 21000
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 21000,
+          "unitPrice": 21000
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 21800,
+          "unitPrice": 21800
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 21000,
+          "unitPrice": 21000
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 19600,
+          "unitPrice": 19600
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 19999,
+          "unitPrice": 19999
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 6,
+          "totalPrice": 131999,
+          "unitPrice": 22000
+        }
+      ],
+      "image": "assets/products/snkrdunk/op-09.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20240828053218-1.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "OP-10",
+      "productId": "382246",
+      "url": "https://snkrdunk.com/apparels/382246",
+      "title": "ONE PIECE Card Game Booster Pack \"Royal Blood\" Box",
+      "price": 12000,
+      "status": "matched_with_price",
+      "currentMinPrice": 12000,
+      "recentAveragePrice": 11269,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 32,
+      "recentSales": [
+        {
+          "date": "2時間前",
+          "quantity": 1,
+          "totalPrice": 12000,
+          "unitPrice": 12000
+        },
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 12000,
+          "unitPrice": 12000
+        },
+        {
+          "date": "2日前",
+          "quantity": 1,
+          "totalPrice": 11699,
+          "unitPrice": 11699
+        },
+        {
+          "date": "2日前",
+          "quantity": 1,
+          "totalPrice": 11000,
+          "unitPrice": 11000
+        },
+        {
+          "date": "2日前",
+          "quantity": 1,
+          "totalPrice": 11000,
+          "unitPrice": 11000
+        },
+        {
+          "date": "2日前",
+          "quantity": 1,
+          "totalPrice": 11000,
+          "unitPrice": 11000
+        },
+        {
+          "date": "2日前",
+          "quantity": 1,
+          "totalPrice": 11000,
+          "unitPrice": 11000
+        },
+        {
+          "date": "3日前",
+          "quantity": 3,
+          "totalPrice": 33333,
+          "unitPrice": 11111
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 12000,
+          "unitPrice": 12000
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 12000,
+          "unitPrice": 12000
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 11111,
+          "unitPrice": 11111
+        },
+        {
+          "date": "2026/06/23",
+          "quantity": 1,
+          "totalPrice": 10499,
+          "unitPrice": 10499
+        },
+        {
+          "date": "2026/06/23",
+          "quantity": 1,
+          "totalPrice": 11000,
+          "unitPrice": 11000
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 10980,
+          "unitPrice": 10980
+        },
+        {
+          "date": "2026/06/20",
+          "quantity": 1,
+          "totalPrice": 11000,
+          "unitPrice": 11000
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 10000,
+          "unitPrice": 10000
+        },
+        {
+          "date": "2026/06/17",
+          "quantity": 2,
+          "totalPrice": 22000,
+          "unitPrice": 11000
+        },
+        {
+          "date": "2026/06/14",
+          "quantity": 6,
+          "totalPrice": 72000,
+          "unitPrice": 12000
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 5,
+          "totalPrice": 54000,
+          "unitPrice": 10800
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 1,
+          "totalPrice": 10980,
+          "unitPrice": 10980
+        }
+      ],
+      "image": "assets/products/snkrdunk/op-10.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20241129061652-1.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "OP-11",
+      "productId": "498158",
+      "url": "https://snkrdunk.com/apparels/498158",
+      "title": "ONE PIECE Card Game Booster Pack \"A Fist of Divine Speed\" Box",
+      "price": 34500,
+      "status": "matched_with_price",
+      "currentMinPrice": 34500,
+      "recentAveragePrice": 31828,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 36,
+      "recentSales": [
+        {
+          "date": "7時間前",
+          "quantity": 2,
+          "totalPrice": 70200,
+          "unitPrice": 35100
+        },
+        {
+          "date": "8時間前",
+          "quantity": 1,
+          "totalPrice": 33333,
+          "unitPrice": 33333
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 35000,
+          "unitPrice": 35000
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 35000,
+          "unitPrice": 35000
+        },
+        {
+          "date": "3日前",
+          "quantity": 4,
+          "totalPrice": 82999,
+          "unitPrice": 20750
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 34000,
+          "unitPrice": 34000
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 3,
+          "totalPrice": 101000,
+          "unitPrice": 33667
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 33500,
+          "unitPrice": 33500
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 34500,
+          "unitPrice": 34500
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 2,
+          "totalPrice": 68100,
+          "unitPrice": 34050
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 2,
+          "totalPrice": 65990,
+          "unitPrice": 32995
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 32900,
+          "unitPrice": 32900
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 33000,
+          "unitPrice": 33000
+        },
+        {
+          "date": "2026/06/21",
+          "quantity": 1,
+          "totalPrice": 32000,
+          "unitPrice": 32000
+        },
+        {
+          "date": "2026/06/21",
+          "quantity": 5,
+          "totalPrice": 161000,
+          "unitPrice": 32200
+        },
+        {
+          "date": "2026/06/20",
+          "quantity": 1,
+          "totalPrice": 33800,
+          "unitPrice": 33800
+        },
+        {
+          "date": "2026/06/19",
+          "quantity": 1,
+          "totalPrice": 33500,
+          "unitPrice": 33500
+        },
+        {
+          "date": "2026/06/19",
+          "quantity": 5,
+          "totalPrice": 161000,
+          "unitPrice": 32200
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 33000,
+          "unitPrice": 33000
+        },
+        {
+          "date": "2026/06/17",
+          "quantity": 1,
+          "totalPrice": 32000,
+          "unitPrice": 32000
+        }
+      ],
+      "image": "assets/products/snkrdunk/op-11.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20250227074343-0.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "OP-12",
+      "productId": "542574",
+      "url": "https://snkrdunk.com/apparels/542574",
+      "title": "ONE PIECE Card Game Booster Pack \"Legacy of the Master\" Box",
+      "price": 17300,
+      "status": "matched_with_price",
+      "currentMinPrice": 17300,
+      "recentAveragePrice": 16406,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 37,
+      "recentSales": [
+        {
+          "date": "3日前",
+          "quantity": 12,
+          "totalPrice": 195555,
+          "unitPrice": 16296
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 17000,
+          "unitPrice": 17000
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 17500,
+          "unitPrice": 17500
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 17500,
+          "unitPrice": 17500
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 17400,
+          "unitPrice": 17400
+        },
+        {
+          "date": "2026/06/23",
+          "quantity": 1,
+          "totalPrice": 17200,
+          "unitPrice": 17200
+        },
+        {
+          "date": "2026/06/23",
+          "quantity": 1,
+          "totalPrice": 16500,
+          "unitPrice": 16500
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 17400,
+          "unitPrice": 17400
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 17600,
+          "unitPrice": 17600
+        },
+        {
+          "date": "2026/06/17",
+          "quantity": 3,
+          "totalPrice": 49999,
+          "unitPrice": 16666
+        },
+        {
+          "date": "2026/06/17",
+          "quantity": 1,
+          "totalPrice": 16666,
+          "unitPrice": 16666
+        },
+        {
+          "date": "2026/06/16",
+          "quantity": 1,
+          "totalPrice": 16000,
+          "unitPrice": 16000
+        },
+        {
+          "date": "2026/06/16",
+          "quantity": 1,
+          "totalPrice": 15888,
+          "unitPrice": 15888
+        },
+        {
+          "date": "2026/06/15",
+          "quantity": 1,
+          "totalPrice": 15500,
+          "unitPrice": 15500
+        },
+        {
+          "date": "2026/06/14",
+          "quantity": 1,
+          "totalPrice": 16500,
+          "unitPrice": 16500
+        },
+        {
+          "date": "2026/06/14",
+          "quantity": 2,
+          "totalPrice": 32800,
+          "unitPrice": 16400
+        },
+        {
+          "date": "2026/06/14",
+          "quantity": 4,
+          "totalPrice": 64000,
+          "unitPrice": 16000
+        },
+        {
+          "date": "2026/06/14",
+          "quantity": 1,
+          "totalPrice": 16000,
+          "unitPrice": 16000
+        },
+        {
+          "date": "2026/06/14",
+          "quantity": 1,
+          "totalPrice": 14999,
+          "unitPrice": 14999
+        },
+        {
+          "date": "2026/06/14",
+          "quantity": 1,
+          "totalPrice": 15000,
+          "unitPrice": 15000
+        }
+      ],
+      "image": "assets/products/snkrdunk/op-12.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20250530084849-0.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "OP-13",
+      "productId": "548909",
+      "url": "https://snkrdunk.com/apparels/548909",
+      "title": "ONE PIECE Card Game Booster Pack \"CARRYING ON HIS WILL\" Box",
+      "price": 23500,
+      "status": "matched_with_price",
+      "currentMinPrice": 23500,
+      "recentAveragePrice": 23044,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 26,
+      "recentSales": [
+        {
+          "date": "2時間前",
+          "quantity": 1,
+          "totalPrice": 23500,
+          "unitPrice": 23500
+        },
+        {
+          "date": "7時間前",
+          "quantity": 3,
+          "totalPrice": 70000,
+          "unitPrice": 23333
+        },
+        {
+          "date": "7時間前",
+          "quantity": 1,
+          "totalPrice": 23000,
+          "unitPrice": 23000
+        },
+        {
+          "date": "9時間前",
+          "quantity": 1,
+          "totalPrice": 23500,
+          "unitPrice": 23500
+        },
+        {
+          "date": "9時間前",
+          "quantity": 1,
+          "totalPrice": 23500,
+          "unitPrice": 23500
+        },
+        {
+          "date": "12時間前",
+          "quantity": 1,
+          "totalPrice": 21900,
+          "unitPrice": 21900
+        },
+        {
+          "date": "12時間前",
+          "quantity": 1,
+          "totalPrice": 23000,
+          "unitPrice": 23000
+        },
+        {
+          "date": "12時間前",
+          "quantity": 1,
+          "totalPrice": 22000,
+          "unitPrice": 22000
+        },
+        {
+          "date": "12時間前",
+          "quantity": 1,
+          "totalPrice": 22000,
+          "unitPrice": 22000
+        },
+        {
+          "date": "12時間前",
+          "quantity": 1,
+          "totalPrice": 22000,
+          "unitPrice": 22000
+        },
+        {
+          "date": "15時間前",
+          "quantity": 1,
+          "totalPrice": 22000,
+          "unitPrice": 22000
+        },
+        {
+          "date": "15時間前",
+          "quantity": 2,
+          "totalPrice": 40000,
+          "unitPrice": 20000
+        },
+        {
+          "date": "16時間前",
+          "quantity": 1,
+          "totalPrice": 20000,
+          "unitPrice": 20000
+        },
+        {
+          "date": "17時間前",
+          "quantity": 1,
+          "totalPrice": 23500,
+          "unitPrice": 23500
+        },
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 24950,
+          "unitPrice": 24950
+        },
+        {
+          "date": "1日前",
+          "quantity": 2,
+          "totalPrice": 48500,
+          "unitPrice": 24250
+        },
+        {
+          "date": "1日前",
+          "quantity": 2,
+          "totalPrice": 48400,
+          "unitPrice": 24200
+        },
+        {
+          "date": "1日前",
+          "quantity": 2,
+          "totalPrice": 48900,
+          "unitPrice": 24450
+        },
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 24498,
+          "unitPrice": 24498
+        },
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 23999,
+          "unitPrice": 23999
+        }
+      ],
+      "image": "assets/products/snkrdunk/op-13.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20250822063040-1.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "OP-14",
+      "productId": "725356",
+      "url": "https://snkrdunk.com/apparels/725356",
+      "title": "ONE PIECE Card Game Booster Pack \"THE AZURE SEA'S SEVEN\" Box",
+      "price": 12200,
+      "status": "matched_with_price",
+      "currentMinPrice": 12200,
+      "recentAveragePrice": 13462,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 23,
+      "recentSales": [
+        {
+          "date": "2時間前",
+          "quantity": 1,
+          "totalPrice": 12278,
+          "unitPrice": 12278
+        },
+        {
+          "date": "9時間前",
+          "quantity": 2,
+          "totalPrice": 27000,
+          "unitPrice": 13500
+        },
+        {
+          "date": "11時間前",
+          "quantity": 1,
+          "totalPrice": 12499,
+          "unitPrice": 12499
+        },
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 12000,
+          "unitPrice": 12000
+        },
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 12698,
+          "unitPrice": 12698
+        },
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 12697,
+          "unitPrice": 12697
+        },
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 12700,
+          "unitPrice": 12700
+        },
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 13200,
+          "unitPrice": 13200
+        },
+        {
+          "date": "2日前",
+          "quantity": 1,
+          "totalPrice": 13675,
+          "unitPrice": 13675
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 13800,
+          "unitPrice": 13800
+        },
+        {
+          "date": "3日前",
+          "quantity": 2,
+          "totalPrice": 28999,
+          "unitPrice": 14500
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 13900,
+          "unitPrice": 13900
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 13000,
+          "unitPrice": 13000
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 13500,
+          "unitPrice": 13500
+        },
+        {
+          "date": "3日前",
+          "quantity": 2,
+          "totalPrice": 28888,
+          "unitPrice": 14444
+        },
+        {
+          "date": "2026/06/23",
+          "quantity": 1,
+          "totalPrice": 13800,
+          "unitPrice": 13800
+        },
+        {
+          "date": "2026/06/23",
+          "quantity": 1,
+          "totalPrice": 13899,
+          "unitPrice": 13899
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 13900,
+          "unitPrice": 13900
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 13399,
+          "unitPrice": 13399
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 13799,
+          "unitPrice": 13799
+        }
+      ],
+      "image": "assets/products/snkrdunk/op-14.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20251121110237-0.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "OP-15",
+      "productId": "755998",
+      "url": "https://snkrdunk.com/apparels/755998",
+      "title": "ONE PIECE Card Game Booster Pack \"Adventure on KAMI’s Island\" Box",
+      "price": 13849,
+      "status": "matched_with_price",
+      "currentMinPrice": 13849,
+      "recentAveragePrice": 14360,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 25,
+      "recentSales": [
+        {
+          "date": "2時間前",
+          "quantity": 1,
+          "totalPrice": 13800,
+          "unitPrice": 13800
+        },
+        {
+          "date": "1日前",
+          "quantity": 2,
+          "totalPrice": 30400,
+          "unitPrice": 15200
+        },
+        {
+          "date": "1日前",
+          "quantity": 2,
+          "totalPrice": 30399,
+          "unitPrice": 15200
+        },
+        {
+          "date": "1日前",
+          "quantity": 3,
+          "totalPrice": 44200,
+          "unitPrice": 14733
+        },
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 14200,
+          "unitPrice": 14200
+        },
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 13998,
+          "unitPrice": 13998
+        },
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 14000,
+          "unitPrice": 14000
+        },
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 14000,
+          "unitPrice": 14000
+        },
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 14000,
+          "unitPrice": 14000
+        },
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 13950,
+          "unitPrice": 13950
+        },
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 13949,
+          "unitPrice": 13949
+        },
+        {
+          "date": "2日前",
+          "quantity": 2,
+          "totalPrice": 30000,
+          "unitPrice": 15000
+        },
+        {
+          "date": "2日前",
+          "quantity": 1,
+          "totalPrice": 13900,
+          "unitPrice": 13900
+        },
+        {
+          "date": "2日前",
+          "quantity": 1,
+          "totalPrice": 14000,
+          "unitPrice": 14000
+        },
+        {
+          "date": "2日前",
+          "quantity": 1,
+          "totalPrice": 13999,
+          "unitPrice": 13999
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 14400,
+          "unitPrice": 14400
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 14000,
+          "unitPrice": 14000
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 13900,
+          "unitPrice": 13900
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 13900,
+          "unitPrice": 13900
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 13999,
+          "unitPrice": 13999
+        }
+      ],
+      "image": "assets/products/snkrdunk/op-15.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20260227120811-0.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "OP-16",
+      "productId": "816932",
+      "url": "https://snkrdunk.com/apparels/816932",
+      "title": "ONE PIECE Card Game Booster Pack \"THE TIME OF BATTLE\" Box",
+      "price": 13300,
+      "status": "matched_with_price",
+      "currentMinPrice": 13300,
+      "recentAveragePrice": 14050,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 36,
+      "recentSales": [
+        {
+          "date": "25分前",
+          "quantity": 3,
+          "totalPrice": 44000,
+          "unitPrice": 14667
+        },
+        {
+          "date": "2時間前",
+          "quantity": 1,
+          "totalPrice": 13200,
+          "unitPrice": 13200
+        },
+        {
+          "date": "4時間前",
+          "quantity": 1,
+          "totalPrice": 13000,
+          "unitPrice": 13000
+        },
+        {
+          "date": "4時間前",
+          "quantity": 1,
+          "totalPrice": 12900,
+          "unitPrice": 12900
+        },
+        {
+          "date": "4時間前",
+          "quantity": 1,
+          "totalPrice": 12900,
+          "unitPrice": 12900
+        },
+        {
+          "date": "4時間前",
+          "quantity": 1,
+          "totalPrice": 12799,
+          "unitPrice": 12799
+        },
+        {
+          "date": "5時間前",
+          "quantity": 1,
+          "totalPrice": 13200,
+          "unitPrice": 13200
+        },
+        {
+          "date": "6時間前",
+          "quantity": 2,
+          "totalPrice": 20000,
+          "unitPrice": 10000
+        },
+        {
+          "date": "7時間前",
+          "quantity": 2,
+          "totalPrice": 29999,
+          "unitPrice": 15000
+        },
+        {
+          "date": "7時間前",
+          "quantity": 1,
+          "totalPrice": 13000,
+          "unitPrice": 13000
+        },
+        {
+          "date": "8時間前",
+          "quantity": 1,
+          "totalPrice": 13000,
+          "unitPrice": 13000
+        },
+        {
+          "date": "9時間前",
+          "quantity": 1,
+          "totalPrice": 13000,
+          "unitPrice": 13000
+        },
+        {
+          "date": "14時間前",
+          "quantity": 4,
+          "totalPrice": 65555,
+          "unitPrice": 16389
+        },
+        {
+          "date": "15時間前",
+          "quantity": 4,
+          "totalPrice": 57000,
+          "unitPrice": 14250
+        },
+        {
+          "date": "15時間前",
+          "quantity": 1,
+          "totalPrice": 12000,
+          "unitPrice": 12000
+        },
+        {
+          "date": "16時間前",
+          "quantity": 3,
+          "totalPrice": 44999,
+          "unitPrice": 15000
+        },
+        {
+          "date": "20時間前",
+          "quantity": 5,
+          "totalPrice": 72500,
+          "unitPrice": 14500
+        },
+        {
+          "date": "23時間前",
+          "quantity": 1,
+          "totalPrice": 14399,
+          "unitPrice": 14399
+        },
+        {
+          "date": "23時間前",
+          "quantity": 1,
+          "totalPrice": 14350,
+          "unitPrice": 14350
+        },
+        {
+          "date": "23時間前",
+          "quantity": 1,
+          "totalPrice": 14000,
+          "unitPrice": 14000
+        }
+      ],
+      "image": "assets/products/snkrdunk/op-16.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/86a6c903-d359-4905-bb20-2f5e64635db0.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "PRB-01",
+      "productId": "216885",
+      "url": "https://snkrdunk.com/apparels/216885",
+      "title": "ONE PIECE Card Game Premium Booster ONE PIECE CARD THE BEST Box",
+      "price": 19999,
+      "status": "matched_with_price",
+      "currentMinPrice": 19999,
+      "recentAveragePrice": 20052,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 32,
+      "recentSales": [
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 19500,
+          "unitPrice": 19500
+        },
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 19999,
+          "unitPrice": 19999
+        },
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 19300,
+          "unitPrice": 19300
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 20000,
+          "unitPrice": 20000
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 19800,
+          "unitPrice": 19800
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 20000,
+          "unitPrice": 20000
+        },
+        {
+          "date": "3日前",
+          "quantity": 2,
+          "totalPrice": 40900,
+          "unitPrice": 20450
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 20500,
+          "unitPrice": 20500
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 20000,
+          "unitPrice": 20000
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 19400,
+          "unitPrice": 19400
+        },
+        {
+          "date": "2026/06/21",
+          "quantity": 2,
+          "totalPrice": 40500,
+          "unitPrice": 20250
+        },
+        {
+          "date": "2026/06/19",
+          "quantity": 3,
+          "totalPrice": 60000,
+          "unitPrice": 20000
+        },
+        {
+          "date": "2026/06/19",
+          "quantity": 2,
+          "totalPrice": 40000,
+          "unitPrice": 20000
+        },
+        {
+          "date": "2026/06/19",
+          "quantity": 1,
+          "totalPrice": 19800,
+          "unitPrice": 19800
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 19000,
+          "unitPrice": 19000
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 4,
+          "totalPrice": 75980,
+          "unitPrice": 18995
+        },
+        {
+          "date": "2026/06/17",
+          "quantity": 1,
+          "totalPrice": 18999,
+          "unitPrice": 18999
+        },
+        {
+          "date": "2026/06/16",
+          "quantity": 1,
+          "totalPrice": 19000,
+          "unitPrice": 19000
+        },
+        {
+          "date": "2026/06/14",
+          "quantity": 1,
+          "totalPrice": 19000,
+          "unitPrice": 19000
+        },
+        {
+          "date": "2026/06/13",
+          "quantity": 5,
+          "totalPrice": 110000,
+          "unitPrice": 22000
+        }
+      ],
+      "image": "assets/products/snkrdunk/prb-01.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20240724064506-0.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "PRB-02",
+      "productId": "548907",
+      "url": "https://snkrdunk.com/apparels/548907",
+      "title": "ONE PIECE Card Game Premium Booster \"ONE PIECE CARD THE BEST vol.2\" Box",
+      "price": 9700,
+      "status": "matched_with_price",
+      "currentMinPrice": 9700,
+      "recentAveragePrice": 9379,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 22,
+      "recentSales": [
+        {
+          "date": "1時間前",
+          "quantity": 1,
+          "totalPrice": 9100,
+          "unitPrice": 9100
+        },
+        {
+          "date": "2時間前",
+          "quantity": 1,
+          "totalPrice": 9100,
+          "unitPrice": 9100
+        },
+        {
+          "date": "2時間前",
+          "quantity": 1,
+          "totalPrice": 9090,
+          "unitPrice": 9090
+        },
+        {
+          "date": "3時間前",
+          "quantity": 1,
+          "totalPrice": 9100,
+          "unitPrice": 9100
+        },
+        {
+          "date": "8時間前",
+          "quantity": 2,
+          "totalPrice": 19000,
+          "unitPrice": 9500
+        },
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 8900,
+          "unitPrice": 8900
+        },
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 8950,
+          "unitPrice": 8950
+        },
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 9000,
+          "unitPrice": 9000
+        },
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 8800,
+          "unitPrice": 8800
+        },
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 9000,
+          "unitPrice": 9000
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 10000,
+          "unitPrice": 10000
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 10000,
+          "unitPrice": 10000
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 10000,
+          "unitPrice": 10000
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 10000,
+          "unitPrice": 10000
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 9899,
+          "unitPrice": 9899
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 9300,
+          "unitPrice": 9300
+        },
+        {
+          "date": "2026/06/23",
+          "quantity": 1,
+          "totalPrice": 9200,
+          "unitPrice": 9200
+        },
+        {
+          "date": "2026/06/23",
+          "quantity": 1,
+          "totalPrice": 9200,
+          "unitPrice": 9200
+        },
+        {
+          "date": "2026/06/23",
+          "quantity": 1,
+          "totalPrice": 9200,
+          "unitPrice": 9200
+        },
+        {
+          "date": "2026/06/23",
+          "quantity": 2,
+          "totalPrice": 19500,
+          "unitPrice": 9750
+        }
+      ],
+      "image": "assets/products/snkrdunk/prb-02.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20250714084837-0.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "EB-01",
+      "productId": "165849",
+      "url": "https://snkrdunk.com/apparels/165849",
+      "title": "ONE PIECE Card Game Extra Booster Memorial Collection Box",
+      "price": 24479,
+      "status": "matched_with_price",
+      "currentMinPrice": 24479,
+      "recentAveragePrice": 21860,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 26,
+      "recentSales": [
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 23990,
+          "unitPrice": 23990
+        },
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 23000,
+          "unitPrice": 23000
+        },
+        {
+          "date": "2日前",
+          "quantity": 1,
+          "totalPrice": 24000,
+          "unitPrice": 24000
+        },
+        {
+          "date": "3日前",
+          "quantity": 3,
+          "totalPrice": 66500,
+          "unitPrice": 22167
+        },
+        {
+          "date": "2026/06/23",
+          "quantity": 1,
+          "totalPrice": 24000,
+          "unitPrice": 24000
+        },
+        {
+          "date": "2026/06/23",
+          "quantity": 1,
+          "totalPrice": 19000,
+          "unitPrice": 19000
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 3,
+          "totalPrice": 66000,
+          "unitPrice": 22000
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 22800,
+          "unitPrice": 22800
+        },
+        {
+          "date": "2026/06/21",
+          "quantity": 1,
+          "totalPrice": 23000,
+          "unitPrice": 23000
+        },
+        {
+          "date": "2026/06/20",
+          "quantity": 1,
+          "totalPrice": 20000,
+          "unitPrice": 20000
+        },
+        {
+          "date": "2026/06/20",
+          "quantity": 1,
+          "totalPrice": 21000,
+          "unitPrice": 21000
+        },
+        {
+          "date": "2026/06/20",
+          "quantity": 1,
+          "totalPrice": 21000,
+          "unitPrice": 21000
+        },
+        {
+          "date": "2026/06/19",
+          "quantity": 1,
+          "totalPrice": 18900,
+          "unitPrice": 18900
+        },
+        {
+          "date": "2026/06/14",
+          "quantity": 1,
+          "totalPrice": 19000,
+          "unitPrice": 19000
+        },
+        {
+          "date": "2026/06/14",
+          "quantity": 1,
+          "totalPrice": 21000,
+          "unitPrice": 21000
+        },
+        {
+          "date": "2026/06/14",
+          "quantity": 3,
+          "totalPrice": 66666,
+          "unitPrice": 22222
+        },
+        {
+          "date": "2026/06/14",
+          "quantity": 1,
+          "totalPrice": 23000,
+          "unitPrice": 23000
+        },
+        {
+          "date": "2026/06/14",
+          "quantity": 1,
+          "totalPrice": 20000,
+          "unitPrice": 20000
+        },
+        {
+          "date": "2026/06/14",
+          "quantity": 1,
+          "totalPrice": 22499,
+          "unitPrice": 22499
+        },
+        {
+          "date": "2026/06/14",
+          "quantity": 1,
+          "totalPrice": 22999,
+          "unitPrice": 22999
+        }
+      ],
+      "image": "assets/products/snkrdunk/eb-01.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20240303015141-0.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "EB-02",
+      "productId": "407696",
+      "url": "https://snkrdunk.com/apparels/407696",
+      "title": "ONE PIECE Card Game Extra Booster \"Anime 25th Collection\" Box",
+      "price": 36000,
+      "status": "matched_with_price",
+      "capturedAt": "2026-06-27T16:57:57.549Z",
+      "lastError": null,
+      "currentMinPrice": 36000,
+      "recentAveragePrice": 35315,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 36,
+      "recentSales": [
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 35800,
+          "unitPrice": 35800
+        },
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 35500,
+          "unitPrice": 35500
+        },
+        {
+          "date": "2日前",
+          "quantity": 3,
+          "totalPrice": 105000,
+          "unitPrice": 35000
+        },
+        {
+          "date": "2日前",
+          "quantity": 1,
+          "totalPrice": 35500,
+          "unitPrice": 35500
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 37000,
+          "unitPrice": 37000
+        },
+        {
+          "date": "2026/06/23",
+          "quantity": 1,
+          "totalPrice": 38000,
+          "unitPrice": 38000
+        },
+        {
+          "date": "2026/06/23",
+          "quantity": 1,
+          "totalPrice": 38000,
+          "unitPrice": 38000
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 10,
+          "totalPrice": 380000,
+          "unitPrice": 38000
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 2,
+          "totalPrice": 66000,
+          "unitPrice": 33000
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 2,
+          "totalPrice": 69499,
+          "unitPrice": 34750
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 2,
+          "totalPrice": 70000,
+          "unitPrice": 35000
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 35000,
+          "unitPrice": 35000
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 34800,
+          "unitPrice": 34800
+        },
+        {
+          "date": "2026/06/21",
+          "quantity": 1,
+          "totalPrice": 33333,
+          "unitPrice": 33333
+        },
+        {
+          "date": "2026/06/21",
+          "quantity": 1,
+          "totalPrice": 33500,
+          "unitPrice": 33500
+        },
+        {
+          "date": "2026/06/21",
+          "quantity": 1,
+          "totalPrice": 33000,
+          "unitPrice": 33000
+        },
+        {
+          "date": "2026/06/20",
+          "quantity": 2,
+          "totalPrice": 63500,
+          "unitPrice": 31750
+        },
+        {
+          "date": "2026/06/20",
+          "quantity": 2,
+          "totalPrice": 63999,
+          "unitPrice": 32000
+        },
+        {
+          "date": "2026/06/20",
+          "quantity": 1,
+          "totalPrice": 32000,
+          "unitPrice": 32000
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 31900,
+          "unitPrice": 31900
+        }
+      ],
+      "image": "assets/products/snkrdunk/eb-02.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20241225045853-0.webp"
+    },
+    {
+      "code": "EB-03",
+      "productId": "691521",
+      "url": "https://snkrdunk.com/apparels/691521",
+      "title": "ONE PIECE Card Game Extra Booster \"ONE PIECE Heroines edition\" Box",
+      "price": 21000,
+      "status": "matched_with_price",
+      "currentMinPrice": 21000,
+      "recentAveragePrice": 20599,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 27,
+      "recentSales": [
+        {
+          "date": "2時間前",
+          "quantity": 1,
+          "totalPrice": 20990,
+          "unitPrice": 20990
+        },
+        {
+          "date": "21時間前",
+          "quantity": 1,
+          "totalPrice": 20999,
+          "unitPrice": 20999
+        },
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 20499,
+          "unitPrice": 20499
+        },
+        {
+          "date": "2日前",
+          "quantity": 1,
+          "totalPrice": 20000,
+          "unitPrice": 20000
+        },
+        {
+          "date": "2日前",
+          "quantity": 1,
+          "totalPrice": 20800,
+          "unitPrice": 20800
+        },
+        {
+          "date": "3日前",
+          "quantity": 3,
+          "totalPrice": 63000,
+          "unitPrice": 21000
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 20500,
+          "unitPrice": 20500
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 20500,
+          "unitPrice": 20500
+        },
+        {
+          "date": "2026/06/23",
+          "quantity": 1,
+          "totalPrice": 20000,
+          "unitPrice": 20000
+        },
+        {
+          "date": "2026/06/23",
+          "quantity": 4,
+          "totalPrice": 82000,
+          "unitPrice": 20500
+        },
+        {
+          "date": "2026/06/23",
+          "quantity": 1,
+          "totalPrice": 20700,
+          "unitPrice": 20700
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 20699,
+          "unitPrice": 20699
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 3,
+          "totalPrice": 63000,
+          "unitPrice": 21000
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 20500,
+          "unitPrice": 20500
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 20999,
+          "unitPrice": 20999
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 21000,
+          "unitPrice": 21000
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 20000,
+          "unitPrice": 20000
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 20000,
+          "unitPrice": 20000
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 19990,
+          "unitPrice": 19990
+        },
+        {
+          "date": "2026/06/21",
+          "quantity": 1,
+          "totalPrice": 20000,
+          "unitPrice": 20000
+        }
+      ],
+      "image": "assets/products/snkrdunk/eb-03.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20251022082902-1.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "EB-04",
+      "productId": "751287",
+      "url": "https://snkrdunk.com/apparels/751287",
+      "title": "ONE PIECE Card Game Extra Booster \"EGGHEAD CRISIS\" Box",
+      "price": 13600,
+      "status": "matched_with_price",
+      "currentMinPrice": 13600,
+      "recentAveragePrice": 13755,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 26,
+      "recentSales": [
+        {
+          "date": "2時間前",
+          "quantity": 1,
+          "totalPrice": 13500,
+          "unitPrice": 13500
+        },
+        {
+          "date": "7時間前",
+          "quantity": 1,
+          "totalPrice": 13500,
+          "unitPrice": 13500
+        },
+        {
+          "date": "11時間前",
+          "quantity": 1,
+          "totalPrice": 13000,
+          "unitPrice": 13000
+        },
+        {
+          "date": "11時間前",
+          "quantity": 1,
+          "totalPrice": 13200,
+          "unitPrice": 13200
+        },
+        {
+          "date": "11時間前",
+          "quantity": 1,
+          "totalPrice": 12499,
+          "unitPrice": 12499
+        },
+        {
+          "date": "11時間前",
+          "quantity": 1,
+          "totalPrice": 12500,
+          "unitPrice": 12500
+        },
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 13799,
+          "unitPrice": 13799
+        },
+        {
+          "date": "2日前",
+          "quantity": 1,
+          "totalPrice": 13699,
+          "unitPrice": 13699
+        },
+        {
+          "date": "2日前",
+          "quantity": 1,
+          "totalPrice": 13700,
+          "unitPrice": 13700
+        },
+        {
+          "date": "2日前",
+          "quantity": 1,
+          "totalPrice": 13698,
+          "unitPrice": 13698
+        },
+        {
+          "date": "3日前",
+          "quantity": 5,
+          "totalPrice": 73000,
+          "unitPrice": 14600
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 13998,
+          "unitPrice": 13998
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 14000,
+          "unitPrice": 14000
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 13499,
+          "unitPrice": 13499
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 13499,
+          "unitPrice": 13499
+        },
+        {
+          "date": "2026/06/23",
+          "quantity": 1,
+          "totalPrice": 14000,
+          "unitPrice": 14000
+        },
+        {
+          "date": "2026/06/23",
+          "quantity": 2,
+          "totalPrice": 27400,
+          "unitPrice": 13700
+        },
+        {
+          "date": "2026/06/23",
+          "quantity": 1,
+          "totalPrice": 14000,
+          "unitPrice": 14000
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 2,
+          "totalPrice": 27500,
+          "unitPrice": 13750
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 13650,
+          "unitPrice": 13650
+        }
+      ],
+      "image": "assets/products/snkrdunk/eb-04.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20260130074117-0.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "EB-05",
+      "productId": null,
+      "url": null,
+      "title": null,
+      "price": null,
+      "status": "not_available_yet",
+      "note": "尚未到販售時間，因此目前沒有 SNKRDUNK 商品頁。",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "image": "assets/products/snkrdunk/eb-05.webp",
+      "imageSource": "https://asia-tc.onepiece-cardgame.com/onepiececg/bccard/tc/product/2026/06/18/pUMvBibblwXkLPqA/img_noimage_booster_jp.webp"
+    },
+    {
+      "code": "ST-01",
+      "productId": "234178",
+      "url": "https://snkrdunk.com/apparels/234178",
+      "title": "ONE PIECE Card Game Start Deck \"Straw Hat Crew\"",
+      "price": 3380,
+      "status": "matched_with_price",
+      "currentMinPrice": 3380,
+      "recentAveragePrice": 3595,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 24,
+      "recentSales": [
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 3400,
+          "unitPrice": 3400
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 3400,
+          "unitPrice": 3400
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 3500,
+          "unitPrice": 3500
+        },
+        {
+          "date": "2026/06/21",
+          "quantity": 1,
+          "totalPrice": 3400,
+          "unitPrice": 3400
+        },
+        {
+          "date": "2026/06/20",
+          "quantity": 1,
+          "totalPrice": 3599,
+          "unitPrice": 3599
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 3900,
+          "unitPrice": 3900
+        },
+        {
+          "date": "2026/06/17",
+          "quantity": 1,
+          "totalPrice": 3900,
+          "unitPrice": 3900
+        },
+        {
+          "date": "2026/06/16",
+          "quantity": 3,
+          "totalPrice": 9500,
+          "unitPrice": 3167
+        },
+        {
+          "date": "2026/06/16",
+          "quantity": 1,
+          "totalPrice": 3980,
+          "unitPrice": 3980
+        },
+        {
+          "date": "2026/06/16",
+          "quantity": 1,
+          "totalPrice": 3500,
+          "unitPrice": 3500
+        },
+        {
+          "date": "2026/06/16",
+          "quantity": 1,
+          "totalPrice": 3450,
+          "unitPrice": 3450
+        },
+        {
+          "date": "2026/06/15",
+          "quantity": 1,
+          "totalPrice": 2700,
+          "unitPrice": 2700
+        },
+        {
+          "date": "2026/06/14",
+          "quantity": 1,
+          "totalPrice": 3500,
+          "unitPrice": 3500
+        },
+        {
+          "date": "2026/06/13",
+          "quantity": 1,
+          "totalPrice": 3600,
+          "unitPrice": 3600
+        },
+        {
+          "date": "2026/06/13",
+          "quantity": 1,
+          "totalPrice": 3999,
+          "unitPrice": 3999
+        },
+        {
+          "date": "2026/06/13",
+          "quantity": 1,
+          "totalPrice": 3500,
+          "unitPrice": 3500
+        },
+        {
+          "date": "2026/06/13",
+          "quantity": 1,
+          "totalPrice": 3800,
+          "unitPrice": 3800
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 1,
+          "totalPrice": 3789,
+          "unitPrice": 3789
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 2,
+          "totalPrice": 7990,
+          "unitPrice": 3995
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 2,
+          "totalPrice": 7880,
+          "unitPrice": 3940
+        }
+      ],
+      "image": "assets/products/snkrdunk/st-01.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/OPC-TCG-ST-01-box.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-02",
+      "productId": "234179",
+      "url": "https://snkrdunk.com/apparels/234179",
+      "title": "ONE PIECE Card Game Start Deck \"Worst Generation\"",
+      "price": 1000,
+      "status": "matched_with_price",
+      "currentMinPrice": 1000,
+      "recentAveragePrice": null,
+      "recentTransactionCount": 0,
+      "recentTotalQuantity": 0,
+      "recentSales": [],
+      "image": "assets/products/snkrdunk/st-02.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/OPC-TCG-ST-02-box.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-03",
+      "productId": "234180",
+      "url": "https://snkrdunk.com/apparels/234180",
+      "title": "ONE PIECE Card Game Start Deck \"The Seven Warlords of the Sea\"",
+      "price": 1000,
+      "status": "matched_with_price",
+      "currentMinPrice": 1000,
+      "recentAveragePrice": null,
+      "recentTransactionCount": 0,
+      "recentTotalQuantity": 0,
+      "recentSales": [],
+      "image": "assets/products/snkrdunk/st-03.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/OPC-TCG-ST-03-box.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-04",
+      "productId": "234181",
+      "url": "https://snkrdunk.com/apparels/234181",
+      "title": "ONE PIECE Card Game Start Deck \"Animal Kingdom Pirates\"",
+      "price": 1400,
+      "status": "matched_with_price",
+      "currentMinPrice": 1400,
+      "recentAveragePrice": null,
+      "recentTransactionCount": 0,
+      "recentTotalQuantity": 0,
+      "recentSales": [],
+      "image": "assets/products/snkrdunk/st-04.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/OPC-TCG-ST-04-box.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-05",
+      "productId": "234182",
+      "url": "https://snkrdunk.com/apparels/234182",
+      "title": "ONE PIECE Card Game Start Deck \"ONE PIECE FILM edition\"",
+      "price": 1000,
+      "status": "matched_with_price",
+      "currentMinPrice": 1000,
+      "recentAveragePrice": 689,
+      "recentTransactionCount": 8,
+      "recentTotalQuantity": 28,
+      "recentSales": [
+        {
+          "date": "1日前",
+          "quantity": 2,
+          "totalPrice": 2000,
+          "unitPrice": 1000
+        },
+        {
+          "date": "2日前",
+          "quantity": 2,
+          "totalPrice": 1800,
+          "unitPrice": 900
+        },
+        {
+          "date": "2026/06/16",
+          "quantity": 1,
+          "totalPrice": 1000,
+          "unitPrice": 1000
+        },
+        {
+          "date": "2026/06/16",
+          "quantity": 10,
+          "totalPrice": 7000,
+          "unitPrice": 700
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 1,
+          "totalPrice": 1000,
+          "unitPrice": 1000
+        },
+        {
+          "date": "2026/05/12",
+          "quantity": 1,
+          "totalPrice": 1000,
+          "unitPrice": 1000
+        },
+        {
+          "date": "2026/04/01",
+          "quantity": 4,
+          "totalPrice": 2000,
+          "unitPrice": 500
+        },
+        {
+          "date": "2024/07/01",
+          "quantity": 7,
+          "totalPrice": 3500,
+          "unitPrice": 500
+        }
+      ],
+      "image": "assets/products/snkrdunk/st-05.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/OPC-TCG-ST-05-box.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-06",
+      "productId": "234183",
+      "url": "https://snkrdunk.com/apparels/234183",
+      "title": "ONE PIECE Card Game Start Deck \"Absolute Justice\"",
+      "price": 1000,
+      "status": "matched_with_price",
+      "currentMinPrice": 1000,
+      "recentAveragePrice": 889,
+      "recentTransactionCount": 1,
+      "recentTotalQuantity": 9,
+      "recentSales": [
+        {
+          "date": "2026/06/10",
+          "quantity": 9,
+          "totalPrice": 8000,
+          "unitPrice": 889
+        }
+      ],
+      "image": "assets/products/snkrdunk/st-06.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/OPC-TCG-ST-06-box.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-07",
+      "productId": "234184",
+      "url": "https://snkrdunk.com/apparels/234184",
+      "title": "ONE PIECE Card Game Start Deck \"Big Mom Pirates\"",
+      "price": 1459,
+      "status": "matched_with_price",
+      "currentMinPrice": 1459,
+      "recentAveragePrice": null,
+      "recentTransactionCount": 0,
+      "recentTotalQuantity": 0,
+      "recentSales": [],
+      "image": "assets/products/snkrdunk/st-07.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/OPC-TCG-ST-07-box.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-08",
+      "productId": "234185",
+      "url": "https://snkrdunk.com/apparels/234185",
+      "title": "ONE PIECE Card Game Start Deck \"Monkey D. Luffy\"",
+      "price": 1000,
+      "status": "matched_with_price",
+      "currentMinPrice": 1000,
+      "recentAveragePrice": 1373,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 103,
+      "recentSales": [
+        {
+          "date": "2026/06/16",
+          "quantity": 2,
+          "totalPrice": 1980,
+          "unitPrice": 990
+        },
+        {
+          "date": "2026/06/13",
+          "quantity": 4,
+          "totalPrice": 3449,
+          "unitPrice": 862
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 3,
+          "totalPrice": 2000,
+          "unitPrice": 667
+        },
+        {
+          "date": "2026/06/11",
+          "quantity": 4,
+          "totalPrice": 4000,
+          "unitPrice": 1000
+        },
+        {
+          "date": "2026/06/11",
+          "quantity": 2,
+          "totalPrice": 2000,
+          "unitPrice": 1000
+        },
+        {
+          "date": "2026/06/11",
+          "quantity": 7,
+          "totalPrice": 9500,
+          "unitPrice": 1357
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 10,
+          "totalPrice": 15000,
+          "unitPrice": 1500
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 5,
+          "totalPrice": 7000,
+          "unitPrice": 1400
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 10,
+          "totalPrice": 15000,
+          "unitPrice": 1500
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 4,
+          "totalPrice": 5000,
+          "unitPrice": 1250
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 4,
+          "totalPrice": 5100,
+          "unitPrice": 1275
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 3,
+          "totalPrice": 3750,
+          "unitPrice": 1250
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 10,
+          "totalPrice": 16950,
+          "unitPrice": 1695
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 10,
+          "totalPrice": 16800,
+          "unitPrice": 1680
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 5,
+          "totalPrice": 7000,
+          "unitPrice": 1400
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 4,
+          "totalPrice": 5000,
+          "unitPrice": 1250
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 2,
+          "totalPrice": 2500,
+          "unitPrice": 1250
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 2,
+          "totalPrice": 2200,
+          "unitPrice": 1100
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 2,
+          "totalPrice": 2200,
+          "unitPrice": 1100
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 10,
+          "totalPrice": 15000,
+          "unitPrice": 1500
+        }
+      ],
+      "image": "assets/products/snkrdunk/st-08.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/OPC-TCG-ST-08-box.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-09",
+      "productId": "234186",
+      "url": "https://snkrdunk.com/apparels/234186",
+      "title": "ONE PIECE Card Game Start Deck \"Yamato\"",
+      "price": 1000,
+      "status": "matched_with_price",
+      "currentMinPrice": 1000,
+      "recentAveragePrice": 1000,
+      "recentTransactionCount": 1,
+      "recentTotalQuantity": 1,
+      "recentSales": [
+        {
+          "date": "2026/01/01",
+          "quantity": 1,
+          "totalPrice": 1000,
+          "unitPrice": 1000
+        }
+      ],
+      "image": "assets/products/snkrdunk/st-09.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/OPC-TCG-ST-09-box.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-10",
+      "productId": "234187",
+      "url": "https://snkrdunk.com/apparels/234187",
+      "title": "ONE PIECE Card Game Ultra DecK \"The Three Captains\"",
+      "price": 5400,
+      "status": "matched_with_price",
+      "currentMinPrice": 5400,
+      "recentAveragePrice": 5414,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 90,
+      "recentSales": [
+        {
+          "date": "2日前",
+          "quantity": 2,
+          "totalPrice": 10000,
+          "unitPrice": 5000
+        },
+        {
+          "date": "3日前",
+          "quantity": 2,
+          "totalPrice": 10000,
+          "unitPrice": 5000
+        },
+        {
+          "date": "3日前",
+          "quantity": 2,
+          "totalPrice": 10000,
+          "unitPrice": 5000
+        },
+        {
+          "date": "3日前",
+          "quantity": 2,
+          "totalPrice": 9999,
+          "unitPrice": 5000
+        },
+        {
+          "date": "3日前",
+          "quantity": 10,
+          "totalPrice": 54000,
+          "unitPrice": 5400
+        },
+        {
+          "date": "3日前",
+          "quantity": 10,
+          "totalPrice": 53900,
+          "unitPrice": 5390
+        },
+        {
+          "date": "3日前",
+          "quantity": 20,
+          "totalPrice": 110000,
+          "unitPrice": 5500
+        },
+        {
+          "date": "3日前",
+          "quantity": 20,
+          "totalPrice": 110000,
+          "unitPrice": 5500
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 5500,
+          "unitPrice": 5500
+        },
+        {
+          "date": "2026/06/23",
+          "quantity": 1,
+          "totalPrice": 5500,
+          "unitPrice": 5500
+        },
+        {
+          "date": "2026/06/20",
+          "quantity": 1,
+          "totalPrice": 6000,
+          "unitPrice": 6000
+        },
+        {
+          "date": "2026/06/19",
+          "quantity": 2,
+          "totalPrice": 11700,
+          "unitPrice": 5850
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 4800,
+          "unitPrice": 4800
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 5780,
+          "unitPrice": 5780
+        },
+        {
+          "date": "2026/06/17",
+          "quantity": 1,
+          "totalPrice": 5800,
+          "unitPrice": 5800
+        },
+        {
+          "date": "2026/06/16",
+          "quantity": 3,
+          "totalPrice": 17000,
+          "unitPrice": 5667
+        },
+        {
+          "date": "2026/06/16",
+          "quantity": 6,
+          "totalPrice": 30000,
+          "unitPrice": 5000
+        },
+        {
+          "date": "2026/06/15",
+          "quantity": 2,
+          "totalPrice": 10900,
+          "unitPrice": 5450
+        },
+        {
+          "date": "2026/06/15",
+          "quantity": 2,
+          "totalPrice": 10850,
+          "unitPrice": 5425
+        },
+        {
+          "date": "2026/06/14",
+          "quantity": 1,
+          "totalPrice": 5500,
+          "unitPrice": 5500
+        }
+      ],
+      "image": "assets/products/snkrdunk/st-10.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/OPC-TCG-ST-10-box.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-11",
+      "productId": "234188",
+      "url": "https://snkrdunk.com/apparels/234188",
+      "title": "ONE PIECE Card Game Start Deck \"Uta\"",
+      "price": 1000,
+      "status": "matched_with_price",
+      "currentMinPrice": 1000,
+      "recentAveragePrice": 1005,
+      "recentTransactionCount": 4,
+      "recentTotalQuantity": 6,
+      "recentSales": [
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 1480,
+          "unitPrice": 1480
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 1000,
+          "unitPrice": 1000
+        },
+        {
+          "date": "2026/06/01",
+          "quantity": 2,
+          "totalPrice": 1750,
+          "unitPrice": 875
+        },
+        {
+          "date": "2024/09/28",
+          "quantity": 2,
+          "totalPrice": 1800,
+          "unitPrice": 900
+        }
+      ],
+      "image": "assets/products/snkrdunk/st-11.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/OPC-TCG-ST-11-box.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-12",
+      "productId": "234190",
+      "url": "https://snkrdunk.com/apparels/234190",
+      "title": "ONE PIECE Card Game Start Deck \"Zoro & Sanji\"",
+      "price": 1900,
+      "status": "matched_with_price",
+      "currentMinPrice": 1900,
+      "recentAveragePrice": 2644,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 74,
+      "recentSales": [
+        {
+          "date": "4時間前",
+          "quantity": 10,
+          "totalPrice": 22000,
+          "unitPrice": 2200
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 1,
+          "totalPrice": 1799,
+          "unitPrice": 1799
+        },
+        {
+          "date": "2026/06/19",
+          "quantity": 1,
+          "totalPrice": 1690,
+          "unitPrice": 1690
+        },
+        {
+          "date": "2026/06/19",
+          "quantity": 1,
+          "totalPrice": 1650,
+          "unitPrice": 1650
+        },
+        {
+          "date": "2026/06/16",
+          "quantity": 1,
+          "totalPrice": 1600,
+          "unitPrice": 1600
+        },
+        {
+          "date": "2026/06/13",
+          "quantity": 2,
+          "totalPrice": 5000,
+          "unitPrice": 2500
+        },
+        {
+          "date": "2026/06/13",
+          "quantity": 5,
+          "totalPrice": 13500,
+          "unitPrice": 2700
+        },
+        {
+          "date": "2026/06/13",
+          "quantity": 2,
+          "totalPrice": 4880,
+          "unitPrice": 2440
+        },
+        {
+          "date": "2026/06/13",
+          "quantity": 2,
+          "totalPrice": 4880,
+          "unitPrice": 2440
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 10,
+          "totalPrice": 30999,
+          "unitPrice": 3100
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 1,
+          "totalPrice": 2400,
+          "unitPrice": 2400
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 1,
+          "totalPrice": 1900,
+          "unitPrice": 1900
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 1,
+          "totalPrice": 2000,
+          "unitPrice": 2000
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 1,
+          "totalPrice": 1900,
+          "unitPrice": 1900
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 2,
+          "totalPrice": 4250,
+          "unitPrice": 2125
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 1,
+          "totalPrice": 2200,
+          "unitPrice": 2200
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 10,
+          "totalPrice": 30000,
+          "unitPrice": 3000
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 10,
+          "totalPrice": 28000,
+          "unitPrice": 2800
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 10,
+          "totalPrice": 30000,
+          "unitPrice": 3000
+        },
+        {
+          "date": "2026/06/11",
+          "quantity": 2,
+          "totalPrice": 5000,
+          "unitPrice": 2500
+        }
+      ],
+      "image": "assets/products/snkrdunk/st-12.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/OPC-TCG-ST-12-box.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-13",
+      "productId": "234189",
+      "url": "https://snkrdunk.com/apparels/234189",
+      "title": "ONE PIECE Card Game Ultra Deck \"The Three Brothers' Bond\"",
+      "price": 14990,
+      "status": "matched_with_price",
+      "note": "使用者提供網址；SNKRDUNK 頁面結構化資料顯示單個最低價 ¥14,990。",
+      "currentMinPrice": 14990,
+      "recentAveragePrice": 14157,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 90,
+      "recentSales": [
+        {
+          "date": "1日前",
+          "quantity": 2,
+          "totalPrice": 18888,
+          "unitPrice": 9444
+        },
+        {
+          "date": "2026/06/14",
+          "quantity": 1,
+          "totalPrice": 16300,
+          "unitPrice": 16300
+        },
+        {
+          "date": "2026/06/11",
+          "quantity": 1,
+          "totalPrice": 17950,
+          "unitPrice": 17950
+        },
+        {
+          "date": "2026/06/11",
+          "quantity": 20,
+          "totalPrice": 300000,
+          "unitPrice": 15000
+        },
+        {
+          "date": "2026/06/11",
+          "quantity": 5,
+          "totalPrice": 75000,
+          "unitPrice": 15000
+        },
+        {
+          "date": "2026/06/11",
+          "quantity": 1,
+          "totalPrice": 17999,
+          "unitPrice": 17999
+        },
+        {
+          "date": "2026/06/11",
+          "quantity": 10,
+          "totalPrice": 150000,
+          "unitPrice": 15000
+        },
+        {
+          "date": "2026/06/11",
+          "quantity": 11,
+          "totalPrice": 165000,
+          "unitPrice": 15000
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 1,
+          "totalPrice": 14999,
+          "unitPrice": 14999
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 1,
+          "totalPrice": 14999,
+          "unitPrice": 14999
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 1,
+          "totalPrice": 13998,
+          "unitPrice": 13998
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 2,
+          "totalPrice": 30000,
+          "unitPrice": 15000
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 1,
+          "totalPrice": 14000,
+          "unitPrice": 14000
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 1,
+          "totalPrice": 13999,
+          "unitPrice": 13999
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 2,
+          "totalPrice": 28000,
+          "unitPrice": 14000
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 12,
+          "totalPrice": 160000,
+          "unitPrice": 13333
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 2,
+          "totalPrice": 27000,
+          "unitPrice": 13500
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 3,
+          "totalPrice": 39000,
+          "unitPrice": 13000
+        },
+        {
+          "date": "2026/06/09",
+          "quantity": 10,
+          "totalPrice": 134000,
+          "unitPrice": 13400
+        },
+        {
+          "date": "2026/06/09",
+          "quantity": 3,
+          "totalPrice": 22990,
+          "unitPrice": 7663
+        }
+      ],
+      "image": "assets/products/snkrdunk/st-13.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/2a7b094b-03d5-42a9-8f11-d73b82e05fac.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-14",
+      "productId": "251268",
+      "url": "https://snkrdunk.com/apparels/251268",
+      "title": "ONE PIECE Card Game Start Deck \"3D2Y\"",
+      "price": 1900,
+      "status": "matched_with_price",
+      "currentMinPrice": 1900,
+      "recentAveragePrice": 2216,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 80,
+      "recentSales": [
+        {
+          "date": "3日前",
+          "quantity": 4,
+          "totalPrice": 7000,
+          "unitPrice": 1750
+        },
+        {
+          "date": "2026/06/19",
+          "quantity": 3,
+          "totalPrice": 5600,
+          "unitPrice": 1867
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 2,
+          "totalPrice": 4100,
+          "unitPrice": 2050
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 10,
+          "totalPrice": 19000,
+          "unitPrice": 1900
+        },
+        {
+          "date": "2026/06/17",
+          "quantity": 10,
+          "totalPrice": 17500,
+          "unitPrice": 1750
+        },
+        {
+          "date": "2026/06/16",
+          "quantity": 4,
+          "totalPrice": 8300,
+          "unitPrice": 2075
+        },
+        {
+          "date": "2026/06/15",
+          "quantity": 2,
+          "totalPrice": 4200,
+          "unitPrice": 2100
+        },
+        {
+          "date": "2026/06/15",
+          "quantity": 2,
+          "totalPrice": 4100,
+          "unitPrice": 2050
+        },
+        {
+          "date": "2026/06/15",
+          "quantity": 3,
+          "totalPrice": 5600,
+          "unitPrice": 1867
+        },
+        {
+          "date": "2026/06/15",
+          "quantity": 2,
+          "totalPrice": 4000,
+          "unitPrice": 2000
+        },
+        {
+          "date": "2026/06/15",
+          "quantity": 5,
+          "totalPrice": 9000,
+          "unitPrice": 1800
+        },
+        {
+          "date": "2026/06/15",
+          "quantity": 5,
+          "totalPrice": 13000,
+          "unitPrice": 2600
+        },
+        {
+          "date": "2026/06/15",
+          "quantity": 5,
+          "totalPrice": 13000,
+          "unitPrice": 2600
+        },
+        {
+          "date": "2026/06/14",
+          "quantity": 1,
+          "totalPrice": 2600,
+          "unitPrice": 2600
+        },
+        {
+          "date": "2026/06/13",
+          "quantity": 10,
+          "totalPrice": 29990,
+          "unitPrice": 2999
+        },
+        {
+          "date": "2026/06/13",
+          "quantity": 6,
+          "totalPrice": 15000,
+          "unitPrice": 2500
+        },
+        {
+          "date": "2026/06/13",
+          "quantity": 1,
+          "totalPrice": 2600,
+          "unitPrice": 2600
+        },
+        {
+          "date": "2026/06/13",
+          "quantity": 2,
+          "totalPrice": 5150,
+          "unitPrice": 2575
+        },
+        {
+          "date": "2026/06/13",
+          "quantity": 2,
+          "totalPrice": 5000,
+          "unitPrice": 2500
+        },
+        {
+          "date": "2026/06/13",
+          "quantity": 1,
+          "totalPrice": 2500,
+          "unitPrice": 2500
+        }
+      ],
+      "image": "assets/products/snkrdunk/st-14.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20240426055010-0.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-15",
+      "productId": "294193",
+      "url": "https://snkrdunk.com/apparels/294193",
+      "title": "ONE PIECE Card Game Start Deck \"Red Edward.Newgate\"",
+      "price": 3000,
+      "status": "matched_with_price",
+      "currentMinPrice": 3000,
+      "recentAveragePrice": null,
+      "recentTransactionCount": 0,
+      "recentTotalQuantity": 0,
+      "recentSales": [],
+      "image": "assets/products/snkrdunk/st-15.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20240712014908-0.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-16",
+      "productId": "294194",
+      "url": "https://snkrdunk.com/apparels/294194",
+      "title": "ONE PIECE Card Game Start Deck \"Green Uta\"",
+      "price": 7500,
+      "status": "matched_with_price",
+      "currentMinPrice": 7500,
+      "recentAveragePrice": 1800,
+      "recentTransactionCount": 2,
+      "recentTotalQuantity": 4,
+      "recentSales": [
+        {
+          "date": "1日前",
+          "quantity": 2,
+          "totalPrice": 4999,
+          "unitPrice": 2500
+        },
+        {
+          "date": "2025/10/22",
+          "quantity": 2,
+          "totalPrice": 2200,
+          "unitPrice": 1100
+        }
+      ],
+      "image": "assets/products/snkrdunk/st-16.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20240712014922-0.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-17",
+      "productId": "294195",
+      "url": "https://snkrdunk.com/apparels/294195",
+      "title": "ONE PIECE Card Game Start Deck \"Blue Donquixote Doflamingo\"",
+      "price": 2300,
+      "status": "matched_with_price",
+      "currentMinPrice": 2300,
+      "recentAveragePrice": 1200,
+      "recentTransactionCount": 1,
+      "recentTotalQuantity": 4,
+      "recentSales": [
+        {
+          "date": "2026/05/30",
+          "quantity": 4,
+          "totalPrice": 4800,
+          "unitPrice": 1200
+        }
+      ],
+      "image": "assets/products/snkrdunk/st-17.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20240712015049-0.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-18",
+      "productId": "294196",
+      "url": "https://snkrdunk.com/apparels/294196",
+      "title": "ONE PIECE Card Game Start Deck \"Purple Monkey.D.Luffy\"",
+      "price": 16500,
+      "status": "matched_with_price",
+      "currentMinPrice": 16500,
+      "recentAveragePrice": 14142,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 29,
+      "recentSales": [
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 17000,
+          "unitPrice": 17000
+        },
+        {
+          "date": "2026/06/23",
+          "quantity": 2,
+          "totalPrice": 31000,
+          "unitPrice": 15500
+        },
+        {
+          "date": "2026/06/21",
+          "quantity": 2,
+          "totalPrice": 30000,
+          "unitPrice": 15000
+        },
+        {
+          "date": "2026/06/20",
+          "quantity": 1,
+          "totalPrice": 14999,
+          "unitPrice": 14999
+        },
+        {
+          "date": "2026/06/20",
+          "quantity": 1,
+          "totalPrice": 14500,
+          "unitPrice": 14500
+        },
+        {
+          "date": "2026/06/20",
+          "quantity": 1,
+          "totalPrice": 14500,
+          "unitPrice": 14500
+        },
+        {
+          "date": "2026/06/20",
+          "quantity": 1,
+          "totalPrice": 14000,
+          "unitPrice": 14000
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 13800,
+          "unitPrice": 13800
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 2,
+          "totalPrice": 26000,
+          "unitPrice": 13000
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 2,
+          "totalPrice": 26000,
+          "unitPrice": 13000
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 3,
+          "totalPrice": 38400,
+          "unitPrice": 12800
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 14444,
+          "unitPrice": 14444
+        },
+        {
+          "date": "2026/06/16",
+          "quantity": 2,
+          "totalPrice": 31000,
+          "unitPrice": 15500
+        },
+        {
+          "date": "2026/06/13",
+          "quantity": 3,
+          "totalPrice": 45000,
+          "unitPrice": 15000
+        },
+        {
+          "date": "2026/06/13",
+          "quantity": 1,
+          "totalPrice": 14000,
+          "unitPrice": 14000
+        },
+        {
+          "date": "2026/06/13",
+          "quantity": 1,
+          "totalPrice": 13888,
+          "unitPrice": 13888
+        },
+        {
+          "date": "2026/06/13",
+          "quantity": 1,
+          "totalPrice": 13777,
+          "unitPrice": 13777
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 1,
+          "totalPrice": 13999,
+          "unitPrice": 13999
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 1,
+          "totalPrice": 13800,
+          "unitPrice": 13800
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 1,
+          "totalPrice": 9999,
+          "unitPrice": 9999
+        }
+      ],
+      "image": "assets/products/snkrdunk/st-18.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20240712015112-0.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-19",
+      "productId": "294197",
+      "url": "https://snkrdunk.com/apparels/294197",
+      "title": "ONE PIECE Card Game Start Deck \"Black Smoker\"",
+      "price": 1000,
+      "status": "matched_with_price",
+      "currentMinPrice": 1000,
+      "recentAveragePrice": null,
+      "recentTransactionCount": 0,
+      "recentTotalQuantity": 0,
+      "recentSales": [],
+      "image": "assets/products/snkrdunk/st-19.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20240712015151-0.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-20",
+      "productId": "294198",
+      "url": "https://snkrdunk.com/apparels/294198",
+      "title": "ONE PIECE Card Game Start Deck \"Yellow Charlotte Katakuri\"",
+      "price": 1000,
+      "status": "matched_with_price",
+      "currentMinPrice": 1000,
+      "recentAveragePrice": null,
+      "recentTransactionCount": 0,
+      "recentTotalQuantity": 0,
+      "recentSales": [],
+      "image": "assets/products/snkrdunk/st-20.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20240712015205-0.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-21",
+      "productId": "407695",
+      "url": "https://snkrdunk.com/apparels/407695",
+      "title": "ONE PIECE Card Game Start Deck EX \"Gear 5\"",
+      "price": 14850,
+      "status": "matched_with_price",
+      "currentMinPrice": 14850,
+      "recentAveragePrice": 16201,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 44,
+      "recentSales": [
+        {
+          "date": "4時間前",
+          "quantity": 3,
+          "totalPrice": 45000,
+          "unitPrice": 15000
+        },
+        {
+          "date": "2026/06/23",
+          "quantity": 1,
+          "totalPrice": 16666,
+          "unitPrice": 16666
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 3,
+          "totalPrice": 50000,
+          "unitPrice": 16667
+        },
+        {
+          "date": "2026/06/20",
+          "quantity": 1,
+          "totalPrice": 16990,
+          "unitPrice": 16990
+        },
+        {
+          "date": "2026/06/19",
+          "quantity": 7,
+          "totalPrice": 105000,
+          "unitPrice": 15000
+        },
+        {
+          "date": "2026/06/19",
+          "quantity": 3,
+          "totalPrice": 50000,
+          "unitPrice": 16667
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 6,
+          "totalPrice": 108000,
+          "unitPrice": 18000
+        },
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 18450,
+          "unitPrice": 18450
+        },
+        {
+          "date": "2026/06/17",
+          "quantity": 1,
+          "totalPrice": 18000,
+          "unitPrice": 18000
+        },
+        {
+          "date": "2026/06/17",
+          "quantity": 5,
+          "totalPrice": 87000,
+          "unitPrice": 17400
+        },
+        {
+          "date": "2026/06/16",
+          "quantity": 4,
+          "totalPrice": 66666,
+          "unitPrice": 16667
+        },
+        {
+          "date": "2026/06/16",
+          "quantity": 1,
+          "totalPrice": 14400,
+          "unitPrice": 14400
+        },
+        {
+          "date": "2026/06/16",
+          "quantity": 1,
+          "totalPrice": 14000,
+          "unitPrice": 14000
+        },
+        {
+          "date": "2026/06/16",
+          "quantity": 1,
+          "totalPrice": 14999,
+          "unitPrice": 14999
+        },
+        {
+          "date": "2026/06/16",
+          "quantity": 1,
+          "totalPrice": 15000,
+          "unitPrice": 15000
+        },
+        {
+          "date": "2026/06/16",
+          "quantity": 1,
+          "totalPrice": 13500,
+          "unitPrice": 13500
+        },
+        {
+          "date": "2026/06/15",
+          "quantity": 1,
+          "totalPrice": 15000,
+          "unitPrice": 15000
+        },
+        {
+          "date": "2026/06/14",
+          "quantity": 1,
+          "totalPrice": 13500,
+          "unitPrice": 13500
+        },
+        {
+          "date": "2026/06/14",
+          "quantity": 1,
+          "totalPrice": 14000,
+          "unitPrice": 14000
+        },
+        {
+          "date": "2026/06/13",
+          "quantity": 1,
+          "totalPrice": 16666,
+          "unitPrice": 16666
+        }
+      ],
+      "image": "assets/products/snkrdunk/st-21.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20241219070028-0.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-22",
+      "productId": "539677",
+      "url": "https://snkrdunk.com/apparels/539677",
+      "title": "ONE PIECE Card Game Start Deck \"Ace & Newgate\"",
+      "price": 9500,
+      "status": "matched_with_price",
+      "currentMinPrice": 9500,
+      "recentAveragePrice": 5777,
+      "recentTransactionCount": 13,
+      "recentTotalQuantity": 32,
+      "recentSales": [
+        {
+          "date": "2026/06/23",
+          "quantity": 1,
+          "totalPrice": 5400,
+          "unitPrice": 5400
+        },
+        {
+          "date": "2026/06/14",
+          "quantity": 1,
+          "totalPrice": 10500,
+          "unitPrice": 10500
+        },
+        {
+          "date": "2026/06/13",
+          "quantity": 1,
+          "totalPrice": 10000,
+          "unitPrice": 10000
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 1,
+          "totalPrice": 7700,
+          "unitPrice": 7700
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 1,
+          "totalPrice": 7777,
+          "unitPrice": 7777
+        },
+        {
+          "date": "2026/06/11",
+          "quantity": 10,
+          "totalPrice": 75000,
+          "unitPrice": 7500
+        },
+        {
+          "date": "2026/06/11",
+          "quantity": 1,
+          "totalPrice": 9999,
+          "unitPrice": 9999
+        },
+        {
+          "date": "2026/06/11",
+          "quantity": 1,
+          "totalPrice": 7000,
+          "unitPrice": 7000
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 1,
+          "totalPrice": 8500,
+          "unitPrice": 8500
+        },
+        {
+          "date": "2026/05/17",
+          "quantity": 4,
+          "totalPrice": 15000,
+          "unitPrice": 3750
+        },
+        {
+          "date": "2026/05/17",
+          "quantity": 6,
+          "totalPrice": 20000,
+          "unitPrice": 3333
+        },
+        {
+          "date": "2026/01/06",
+          "quantity": 2,
+          "totalPrice": 4000,
+          "unitPrice": 2000
+        },
+        {
+          "date": "2025/12/23",
+          "quantity": 2,
+          "totalPrice": 4000,
+          "unitPrice": 2000
+        }
+      ],
+      "image": "assets/products/snkrdunk/st-22.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20250421061200-0.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-23",
+      "productId": "549004",
+      "url": "https://snkrdunk.com/apparels/549004",
+      "title": "ONE PIECE Card Game Start Deck \"Red Shanks\"",
+      "price": 1400,
+      "status": "matched_with_price",
+      "currentMinPrice": 1400,
+      "recentAveragePrice": 1057,
+      "recentTransactionCount": 5,
+      "recentTotalQuantity": 7,
+      "recentSales": [
+        {
+          "date": "2026/06/18",
+          "quantity": 1,
+          "totalPrice": 2200,
+          "unitPrice": 2200
+        },
+        {
+          "date": "2026/06/17",
+          "quantity": 1,
+          "totalPrice": 1000,
+          "unitPrice": 1000
+        },
+        {
+          "date": "2026/06/13",
+          "quantity": 1,
+          "totalPrice": 1000,
+          "unitPrice": 1000
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 1,
+          "totalPrice": 1000,
+          "unitPrice": 1000
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 3,
+          "totalPrice": 2200,
+          "unitPrice": 733
+        }
+      ],
+      "image": "assets/products/snkrdunk/st-23.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20250626075222-3.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-24",
+      "productId": "549005",
+      "url": "https://snkrdunk.com/apparels/549005",
+      "title": "ONE PIECE Card Game Start Deck \"Green Jewelry Bonney\"",
+      "price": 1000,
+      "status": "matched_with_price",
+      "currentMinPrice": 1000,
+      "recentAveragePrice": null,
+      "recentTransactionCount": 0,
+      "recentTotalQuantity": 0,
+      "recentSales": [],
+      "image": "assets/products/snkrdunk/st-24.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20250626075222-5.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-25",
+      "productId": "549006",
+      "url": "https://snkrdunk.com/apparels/549006",
+      "title": "ONE PIECE Card Game Start Deck \"Blue Buggy\"",
+      "price": 1000,
+      "status": "matched_with_price",
+      "currentMinPrice": 1000,
+      "recentAveragePrice": 1250,
+      "recentTransactionCount": 1,
+      "recentTotalQuantity": 2,
+      "recentSales": [
+        {
+          "date": "3日前",
+          "quantity": 2,
+          "totalPrice": 2500,
+          "unitPrice": 1250
+        }
+      ],
+      "image": "assets/products/snkrdunk/st-25.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20250626075221-1.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-26",
+      "productId": "549007",
+      "url": "https://snkrdunk.com/apparels/549007",
+      "title": "ONE PIECE Card Game Start Deck \"Purple Black Monkey.D.Luffy\"",
+      "price": 1977,
+      "status": "matched_with_price",
+      "currentMinPrice": 1977,
+      "recentAveragePrice": 2343,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 141,
+      "recentSales": [
+        {
+          "date": "3時間前",
+          "quantity": 9,
+          "totalPrice": 22000,
+          "unitPrice": 2444
+        },
+        {
+          "date": "2日前",
+          "quantity": 3,
+          "totalPrice": 7400,
+          "unitPrice": 2467
+        },
+        {
+          "date": "3日前",
+          "quantity": 5,
+          "totalPrice": 11500,
+          "unitPrice": 2300
+        },
+        {
+          "date": "3日前",
+          "quantity": 2,
+          "totalPrice": 4000,
+          "unitPrice": 2000
+        },
+        {
+          "date": "3日前",
+          "quantity": 2,
+          "totalPrice": 4000,
+          "unitPrice": 2000
+        },
+        {
+          "date": "3日前",
+          "quantity": 2,
+          "totalPrice": 3500,
+          "unitPrice": 1750
+        },
+        {
+          "date": "3日前",
+          "quantity": 2,
+          "totalPrice": 3200,
+          "unitPrice": 1600
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 1500,
+          "unitPrice": 1500
+        },
+        {
+          "date": "3日前",
+          "quantity": 3,
+          "totalPrice": 4999,
+          "unitPrice": 1666
+        },
+        {
+          "date": "3日前",
+          "quantity": 3,
+          "totalPrice": 4999,
+          "unitPrice": 1666
+        },
+        {
+          "date": "3日前",
+          "quantity": 10,
+          "totalPrice": 27000,
+          "unitPrice": 2700
+        },
+        {
+          "date": "3日前",
+          "quantity": 12,
+          "totalPrice": 29999,
+          "unitPrice": 2500
+        },
+        {
+          "date": "3日前",
+          "quantity": 12,
+          "totalPrice": 29999,
+          "unitPrice": 2500
+        },
+        {
+          "date": "3日前",
+          "quantity": 10,
+          "totalPrice": 27000,
+          "unitPrice": 2700
+        },
+        {
+          "date": "3日前",
+          "quantity": 10,
+          "totalPrice": 26880,
+          "unitPrice": 2688
+        },
+        {
+          "date": "3日前",
+          "quantity": 20,
+          "totalPrice": 43900,
+          "unitPrice": 2195
+        },
+        {
+          "date": "3日前",
+          "quantity": 20,
+          "totalPrice": 43555,
+          "unitPrice": 2178
+        },
+        {
+          "date": "3日前",
+          "quantity": 10,
+          "totalPrice": 26800,
+          "unitPrice": 2680
+        },
+        {
+          "date": "2026/06/24",
+          "quantity": 3,
+          "totalPrice": 4999,
+          "unitPrice": 1666
+        },
+        {
+          "date": "2026/06/22",
+          "quantity": 2,
+          "totalPrice": 3199,
+          "unitPrice": 1600
+        }
+      ],
+      "image": "assets/products/snkrdunk/st-26.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20250626075221-2.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-27",
+      "productId": "549008",
+      "url": "https://snkrdunk.com/apparels/549008",
+      "title": "ONE PIECE Card Game Start Deck \"Black Marshall.D.Teach\"",
+      "price": 1000,
+      "status": "matched_with_price",
+      "currentMinPrice": 1000,
+      "recentAveragePrice": 533,
+      "recentTransactionCount": 1,
+      "recentTotalQuantity": 6,
+      "recentSales": [
+        {
+          "date": "2026/06/07",
+          "quantity": 6,
+          "totalPrice": 3200,
+          "unitPrice": 533
+        }
+      ],
+      "image": "assets/products/snkrdunk/st-27.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20250626075222-4.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-28",
+      "productId": "549009",
+      "url": "https://snkrdunk.com/apparels/549009",
+      "title": "ONE PIECE Card Game Start Deck \"Green Yellow Yamato\"",
+      "price": 1000,
+      "status": "matched_with_price",
+      "currentMinPrice": 1000,
+      "recentAveragePrice": 1000,
+      "recentTransactionCount": 1,
+      "recentTotalQuantity": 2,
+      "recentSales": [
+        {
+          "date": "2026/06/10",
+          "quantity": 2,
+          "totalPrice": 2000,
+          "unitPrice": 1000
+        }
+      ],
+      "image": "assets/products/snkrdunk/st-28.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/20250626075221-0.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-29",
+      "productId": "742112",
+      "url": "https://snkrdunk.com/apparels/742112",
+      "title": "ONE PIECE Card Game Start Deck \"EGGHEAD\"",
+      "price": 8599,
+      "status": "matched_with_price",
+      "currentMinPrice": 8599,
+      "recentAveragePrice": 14317,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 55,
+      "recentSales": [
+        {
+          "date": "2026/06/14",
+          "quantity": 1,
+          "totalPrice": 9900,
+          "unitPrice": 9900
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 3,
+          "totalPrice": 30000,
+          "unitPrice": 10000
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 1,
+          "totalPrice": 10500,
+          "unitPrice": 10500
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 3,
+          "totalPrice": 31000,
+          "unitPrice": 10333
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 1,
+          "totalPrice": 11000,
+          "unitPrice": 11000
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 1,
+          "totalPrice": 10000,
+          "unitPrice": 10000
+        },
+        {
+          "date": "2026/06/12",
+          "quantity": 1,
+          "totalPrice": 10000,
+          "unitPrice": 10000
+        },
+        {
+          "date": "2026/06/11",
+          "quantity": 1,
+          "totalPrice": 9800,
+          "unitPrice": 9800
+        },
+        {
+          "date": "2026/06/11",
+          "quantity": 1,
+          "totalPrice": 14999,
+          "unitPrice": 14999
+        },
+        {
+          "date": "2026/06/11",
+          "quantity": 1,
+          "totalPrice": 14500,
+          "unitPrice": 14500
+        },
+        {
+          "date": "2026/06/10",
+          "quantity": 15,
+          "totalPrice": 250000,
+          "unitPrice": 16667
+        },
+        {
+          "date": "2026/06/09",
+          "quantity": 2,
+          "totalPrice": 39999,
+          "unitPrice": 20000
+        },
+        {
+          "date": "2026/06/09",
+          "quantity": 2,
+          "totalPrice": 39999,
+          "unitPrice": 20000
+        },
+        {
+          "date": "2026/06/09",
+          "quantity": 10,
+          "totalPrice": 120000,
+          "unitPrice": 12000
+        },
+        {
+          "date": "2026/06/09",
+          "quantity": 6,
+          "totalPrice": 80000,
+          "unitPrice": 13333
+        },
+        {
+          "date": "2026/06/09",
+          "quantity": 2,
+          "totalPrice": 40000,
+          "unitPrice": 20000
+        },
+        {
+          "date": "2026/06/09",
+          "quantity": 1,
+          "totalPrice": 19800,
+          "unitPrice": 19800
+        },
+        {
+          "date": "2026/06/09",
+          "quantity": 1,
+          "totalPrice": 15000,
+          "unitPrice": 15000
+        },
+        {
+          "date": "2026/06/09",
+          "quantity": 1,
+          "totalPrice": 19800,
+          "unitPrice": 19800
+        },
+        {
+          "date": "2026/06/09",
+          "quantity": 1,
+          "totalPrice": 11111,
+          "unitPrice": 11111
+        }
+      ],
+      "image": "assets/products/snkrdunk/st-29.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/OPC-TCG-ST-29.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-30",
+      "productId": "780928",
+      "url": "https://snkrdunk.com/apparels/780928",
+      "title": "ONE PIECE Card Game Start Deck EX \"Luffy&Ace\"",
+      "price": 14997,
+      "status": "matched_with_price",
+      "currentMinPrice": 14997,
+      "recentAveragePrice": 16683,
+      "recentTransactionCount": 20,
+      "recentTotalQuantity": 32,
+      "recentSales": [
+        {
+          "date": "4時間前",
+          "quantity": 1,
+          "totalPrice": 14998,
+          "unitPrice": 14998
+        },
+        {
+          "date": "9時間前",
+          "quantity": 1,
+          "totalPrice": 14997,
+          "unitPrice": 14997
+        },
+        {
+          "date": "15時間前",
+          "quantity": 1,
+          "totalPrice": 14999,
+          "unitPrice": 14999
+        },
+        {
+          "date": "16時間前",
+          "quantity": 1,
+          "totalPrice": 14999,
+          "unitPrice": 14999
+        },
+        {
+          "date": "1日前",
+          "quantity": 1,
+          "totalPrice": 15000,
+          "unitPrice": 15000
+        },
+        {
+          "date": "2日前",
+          "quantity": 4,
+          "totalPrice": 62000,
+          "unitPrice": 15500
+        },
+        {
+          "date": "2日前",
+          "quantity": 1,
+          "totalPrice": 15999,
+          "unitPrice": 15999
+        },
+        {
+          "date": "2日前",
+          "quantity": 1,
+          "totalPrice": 16300,
+          "unitPrice": 16300
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 16500,
+          "unitPrice": 16500
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 17500,
+          "unitPrice": 17500
+        },
+        {
+          "date": "3日前",
+          "quantity": 10,
+          "totalPrice": 177777,
+          "unitPrice": 17778
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 16770,
+          "unitPrice": 16770
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 16800,
+          "unitPrice": 16800
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 16970,
+          "unitPrice": 16970
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 16970,
+          "unitPrice": 16970
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 16800,
+          "unitPrice": 16800
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 17000,
+          "unitPrice": 17000
+        },
+        {
+          "date": "3日前",
+          "quantity": 1,
+          "totalPrice": 16980,
+          "unitPrice": 16980
+        },
+        {
+          "date": "2026/06/23",
+          "quantity": 1,
+          "totalPrice": 16000,
+          "unitPrice": 16000
+        },
+        {
+          "date": "2026/06/21",
+          "quantity": 1,
+          "totalPrice": 18500,
+          "unitPrice": 18500
+        }
+      ],
+      "image": "assets/products/snkrdunk/st-30.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/5cd4c64d-4318-406b-8db2-3faf66e4ed18.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-31",
+      "productId": "847160",
+      "url": "https://snkrdunk.com/apparels/847160",
+      "title": "ONE PIECE Card Game Start Deck \"Red Monkey.D.Luffy\"",
+      "price": null,
+      "status": "matched_without_price",
+      "currentMinPrice": null,
+      "recentAveragePrice": null,
+      "recentTransactionCount": 0,
+      "recentTotalQuantity": 0,
+      "recentSales": [],
+      "image": "assets/products/snkrdunk/st-31.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/9ae9c1db-b619-4611-b0db-b61bd4683012.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-32",
+      "productId": "847161",
+      "url": "https://snkrdunk.com/apparels/847161",
+      "title": "ONE PIECE Card Game Start Deck \"Green Roronoa Zoro\"",
+      "price": null,
+      "status": "matched_without_price",
+      "currentMinPrice": null,
+      "recentAveragePrice": null,
+      "recentTransactionCount": 0,
+      "recentTotalQuantity": 0,
+      "recentSales": [],
+      "image": "assets/products/snkrdunk/st-32.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/ffc5c4bb-7001-40e2-b285-d756ac0168da.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-33",
+      "productId": "847162",
+      "url": "https://snkrdunk.com/apparels/847162",
+      "title": "ONE PIECE Card Game Start Deck \"Blue Kuzan\"",
+      "price": null,
+      "status": "matched_without_price",
+      "currentMinPrice": null,
+      "recentAveragePrice": null,
+      "recentTransactionCount": 0,
+      "recentTotalQuantity": 0,
+      "recentSales": [],
+      "image": "assets/products/snkrdunk/st-33.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/40e16f0f-259a-4f9f-910c-7ca9b5311465.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-34",
+      "productId": "847163",
+      "url": "https://snkrdunk.com/apparels/847163",
+      "title": "ONE PIECE Card Game Start Deck \"Purple Charlotte Katakuri\"",
+      "price": null,
+      "status": "matched_without_price",
+      "currentMinPrice": null,
+      "recentAveragePrice": null,
+      "recentTransactionCount": 0,
+      "recentTotalQuantity": 0,
+      "recentSales": [],
+      "image": "assets/products/snkrdunk/st-34.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/a190c2d0-2dbc-4d37-a147-304311a0f007.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-35",
+      "productId": "847164",
+      "url": "https://snkrdunk.com/apparels/847164",
+      "title": "ONE PIECE Card Game Start Deck \"Red Black Sabo\"",
+      "price": null,
+      "status": "matched_without_price",
+      "currentMinPrice": null,
+      "recentAveragePrice": null,
+      "recentTransactionCount": 0,
+      "recentTotalQuantity": 0,
+      "recentSales": [],
+      "image": "assets/products/snkrdunk/st-35.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/f36bf645-47e6-4383-b0bf-ee90f9387154.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    },
+    {
+      "code": "ST-36",
+      "productId": "847165",
+      "url": "https://snkrdunk.com/apparels/847165",
+      "title": "ONE PIECE Card Game Start Deck \"Yellow Eustass.Kid\"",
+      "price": null,
+      "status": "matched_without_price",
+      "currentMinPrice": null,
+      "recentAveragePrice": null,
+      "recentTransactionCount": 0,
+      "recentTotalQuantity": 0,
+      "recentSales": [],
+      "image": "assets/products/snkrdunk/st-36.webp",
+      "imageSource": "https://cdn.snkrdunk.com/upload_bg_removed/6f23b345-6607-4b46-b902-e2f2b4610942.webp",
+      "capturedAt": "2026-06-27T16:56:59.143Z",
+      "lastError": null
+    }
+  ],
+  "capturedAt": "2026-06-27T16:57:57.549Z",
+  "averageDefinition": "最近20筆成交總額除以成交商品總數，四捨五入為每件日幣均價。"
+}
